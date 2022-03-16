@@ -1,0 +1,29 @@
+{
+  "name": "fantasm-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ftazm/fantasm-snapshot"
+  },
+  "keywords": [
+    "fantasm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftazm/fantasm-snapshot/issues"
+  },
+  "homepage": "https://github.com/ftazm/fantasm-snapshot#readme",
+  "dependencies": {
+    "@ethersproject/abi": "^5.6.0",
+    "@ethersproject/contracts": "^5.6.0",
+    "@ethersproject/providers": "^5.6.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.0",
+    "p-limit": "2.3.0"
+  }
+}
