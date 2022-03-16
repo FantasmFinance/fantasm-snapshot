@@ -15,8 +15,10 @@ const XFTM = "0xfBD2945D3601f21540DDD85c29C5C3CaF108B96F";
 const FSM_FTM_LP = "0x457C8Efcd523058dd58CF080533B41026788eCee";
 const XFTM_FTM_LP = "0x128aff18EfF64dA69412ea8d262DC4ef8bb3102d";
 const XFTM_FSM_LP = "0xbEa8E843c0fD428f79a166EaE2671E3a8Cc39A0a";
+const XFTM_FTM_PANIC_SWAP_LP = "0x124b8cC3c88DF53DB0D4474423440D884493fc85";
 
 const CHEF = "0x7aeE1FF33E1b7F6D874D488fb2533a79419ca240";
+const PANIC_SWAP_CHEF = "0xc02563f20ba3e91e459299c3ac1f70724272d618";
 const MULTIFEE_DISTRIBUTION = "0x348634Ea9367690383716FbCa8f225366bbC5966";
 
 const MULTICALL = "0x733D0F0AB6ddb814028B7385e1387f8Da4F6e108";
@@ -30,7 +32,9 @@ const getTokenBalance = async (
   fsmBalanceInFsmFtmLp,
   xftmFsmLpSupply,
   xftmBalanceInXftmFsmLp,
-  fsmBalanceInXftmFsmLp
+  fsmBalanceInXftmFsmLp,
+  xftmFtmPanicLpSupply,
+  xftmBalanceInXftmFtmPanicLp
 ) => {
   const multicallData = await multicall(
     provider,
@@ -92,6 +96,17 @@ const getTokenBalance = async (
           "lockedBalances(address) view returns(uint256 total, uint256 unlockable, uint256 uint256)",
         params: [account],
       },
+      // XFTM in PANIC_SWAP
+      {
+        target: XFTM_FTM_PANIC_SWAP_LP,
+        signature: "balanceOf(address) view returns(uint256)",
+        params: [account],
+      },
+      {
+        target: PANIC_SWAP_CHEF,
+        signature: "userInfo(uint256, address) view returns(uint256, int256)",
+        params: [10, account],
+      },
     ],
     SNAPSHOT_BLOCK
   );
@@ -107,59 +122,73 @@ const getTokenBalance = async (
     [xftmFsmDeposited],
     [withdrawableBalance, penaltyAmount],
     [lockedBalance],
+    [xftmFtmPanicSwapLpBalance],
+    [xftmFtmPanicSwapDeposited],
   ] = multicallData;
 
   // Calc XFTM in XFTM/FTM LP
 
-  const xftmUserBalanceInXftmFtmWalletLp = xftmFtmLpBalance
+  const xftmFromXftmFtmLpInWallet = xftmFtmLpBalance
     .mul(xftmBalanceInXftmFtmLp)
     .div(xftmFtmLpSupply);
 
-  const xftmUserBalanceInXftmFtmChefLp = xftmFtmDeposited
+  const xftmFromXftmFtmLpInChef = xftmFtmDeposited
     .mul(xftmBalanceInXftmFtmLp)
     .div(xftmFtmLpSupply);
+
+  // Calc XFTM in XFTM/FTM PANIC SWAP LP
+
+  const xftmFromPanicLpInWallet = xftmFtmPanicSwapLpBalance
+    .mul(xftmBalanceInXftmFtmPanicLp)
+    .div(xftmFtmPanicLpSupply);
+
+  const xftmFromPanicLpInChef = xftmFtmPanicSwapDeposited
+    .mul(xftmBalanceInXftmFtmPanicLp)
+    .div(xftmFtmPanicLpSupply);
 
   // Calc FSM in FSM/FTM LP
 
-  const fsmUserBalanceInFsmFtmWalletLp = fsmFtmLpBalance
+  const fsmFromFsmFtmLpInWallet = fsmFtmLpBalance
     .mul(fsmBalanceInFsmFtmLp)
     .div(fsmFtmLpSupply);
 
-  const fsmUserBalanceInFsmFtmChefLp = fsmFtmDeposited
+  const fsmFromFsmFtmLpInChef = fsmFtmDeposited
     .mul(fsmBalanceInFsmFtmLp)
     .div(fsmFtmLpSupply);
 
   // Calc XFTM and FSM in XFTM/FSM LP
 
-  const xftmUserBalanceInXftmFsmWalletLp = xftmFsmLpBalance
+  const xftmFromXftmFsmLpInWallet = xftmFsmLpBalance
     .mul(xftmBalanceInXftmFsmLp)
     .div(xftmFsmLpSupply);
 
-  const xftmUserBalanceInXftmFsmChefLp = xftmFsmDeposited
+  const xftmFromXftmFsmLpInChef = xftmFsmDeposited
     .mul(xftmBalanceInXftmFsmLp)
     .div(xftmFsmLpSupply);
 
-  const fsmUserBalanceInXftmFsmWalletLp = xftmFsmLpBalance
+  const fsmFromXftmFsmLpInWallet = xftmFsmLpBalance
     .mul(fsmBalanceInXftmFsmLp)
     .div(xftmFsmLpSupply);
 
-  const fsmUserBalanceInXftmFsmChefLp = xftmFsmDeposited
+  const fsmFromXftmFsmLpInChef = xftmFsmDeposited
     .mul(fsmBalanceInXftmFsmLp)
     .div(xftmFsmLpSupply);
 
   const staking = withdrawableBalance.sub(penaltyAmount);
 
   const totalXftmBalance = xftmBalance
-    .add(xftmUserBalanceInXftmFtmWalletLp)
-    .add(xftmUserBalanceInXftmFtmChefLp)
-    .add(xftmUserBalanceInXftmFsmWalletLp)
-    .add(xftmUserBalanceInXftmFsmChefLp);
+    .add(xftmFromXftmFtmLpInWallet)
+    .add(xftmFromXftmFtmLpInChef)
+    .add(xftmFromXftmFsmLpInWallet)
+    .add(xftmFromXftmFsmLpInChef)
+    .add(xftmFromPanicLpInWallet)
+    .add(xftmFromPanicLpInChef)
 
   const totalFsmBalance = fsmBalance
-    .add(fsmUserBalanceInFsmFtmWalletLp)
-    .add(fsmUserBalanceInFsmFtmChefLp)
-    .add(fsmUserBalanceInXftmFsmWalletLp)
-    .add(fsmUserBalanceInXftmFsmChefLp)
+    .add(fsmFromFsmFtmLpInWallet)
+    .add(fsmFromFsmFtmLpInChef)
+    .add(fsmFromXftmFsmLpInWallet)
+    .add(fsmFromXftmFsmLpInChef)
     .add(withdrawableBalance)
     .add(lockedBalance);
 
@@ -167,10 +196,10 @@ const getTokenBalance = async (
     fsm: {
       total: totalFsmBalance.toString(),
       wallet: fsmBalance.toString(),
-      inFsmFtmWalletLp: fsmUserBalanceInFsmFtmWalletLp.toString(),
-      inFsmFtmFarmLp: fsmUserBalanceInFsmFtmChefLp.toString(),
-      inFsmXftmWalletLp: fsmUserBalanceInXftmFsmWalletLp.toString(),
-      inFsmXftmFarmLp: fsmUserBalanceInXftmFsmChefLp.toString(),
+      inFsmFtmWalletLp: fsmFromFsmFtmLpInWallet.toString(),
+      inFsmFtmFarmLp: fsmFromFsmFtmLpInChef.toString(),
+      inFsmXftmWalletLp: fsmFromXftmFsmLpInWallet.toString(),
+      inFsmXftmFarmLp: fsmFromXftmFsmLpInChef.toString(),
       vesting: penaltyAmount.toString(),
       lock: lockedBalance.toString(),
       staking: staking.toString(),
@@ -178,16 +207,18 @@ const getTokenBalance = async (
     xftm: {
       total: totalXftmBalance.toString(),
       wallet: xftmBalance.toString(),
-      inXftmFtmWalletLp: xftmUserBalanceInXftmFtmWalletLp.toString(),
-      inXftmFtmFarmLp: xftmUserBalanceInXftmFtmChefLp.toString(),
-      inFsmXftmWalletLp: xftmUserBalanceInXftmFsmWalletLp.toString(),
-      inFsmXftmFarmLp: xftmUserBalanceInXftmFsmChefLp.toString(),
+      inXftmFtmWalletLp: xftmFromXftmFtmLpInWallet.toString(),
+      inXftmFtmFarmLp: xftmFromXftmFtmLpInChef.toString(),
+      inFsmXftmWalletLp: xftmFromXftmFsmLpInWallet.toString(),
+      inFsmXftmFarmLp: xftmFromXftmFsmLpInChef.toString(),
+      inPanicSwapWalletLp: xftmFromPanicLpInWallet.toString(),
+      inPanicSwapFarmLp: xftmFromPanicLpInChef.toString(),
     },
   };
 };
 
 const snapshotTokenBalance = async (provider) => {
-  const fileData = await fs.readFile('./output/snapshot-holders.json', "utf8");
+  const fileData = await fs.readFile("./output/snapshot-holders.json", "utf8");
   const holders = JSON.parse(fileData);
   const multicallData = await multicall(
     provider,
@@ -228,18 +259,30 @@ const snapshotTokenBalance = async (provider) => {
         signature: "balanceOf(address) view returns(uint256)",
         params: [XFTM_FSM_LP],
       },
+      {
+        target: XFTM_FTM_PANIC_SWAP_LP,
+        signature: "totalSupply() view returns(uint256)",
+        params: [],
+      },
+      {
+        target: XFTM,
+        signature: "balanceOf(address) view returns(uint256)",
+        params: [XFTM_FTM_PANIC_SWAP_LP],
+      },
     ],
     SNAPSHOT_BLOCK
   );
 
   const [
-    [xftmFtmLpSupply],
-    [xftmBalanceInXftmFtmLp],
-    [fsmFtmLpSupply],
-    [fsmBalanceInFsmFtmLp],
-    [xftmFsmLpSupply],
-    [xftmBalanceInXftmFsmLp],
-    [fsmBalanceInXftmFsmLp],
+    [xftmFtmSupply],
+    [xftmFromXftmFtm],
+    [fsmFtmSupply],
+    [fsmFromFsmFtm],
+    [xftmFsmSupply],
+    [xftmFromXftmFsm],
+    [fsmFromXftmFsm],
+    [xftmFtmPanicSwapSupply],
+    [xftmFromXftmFtmPanicSwap],
   ] = multicallData;
 
   let result = {};
@@ -249,18 +292,23 @@ const snapshotTokenBalance = async (provider) => {
     const data = await getTokenBalance(
       provider,
       account,
-      xftmFtmLpSupply,
-      xftmBalanceInXftmFtmLp,
-      fsmFtmLpSupply,
-      fsmBalanceInFsmFtmLp,
-      xftmFsmLpSupply,
-      xftmBalanceInXftmFsmLp,
-      fsmBalanceInXftmFsmLp
+      xftmFtmSupply,
+      xftmFromXftmFtm,
+      fsmFtmSupply,
+      fsmFromFsmFtm,
+      xftmFsmSupply,
+      xftmFromXftmFsm,
+      fsmFromXftmFsm,
+      xftmFtmPanicSwapSupply,
+      xftmFromXftmFtmPanicSwap
     );
     result[account] = data;
   }
 
-  await fs.writeFile(`./output/snapshot-balance.json`, JSON.stringify(result));
+  await fs.writeFile(
+    `./output/snapshot-balance.json`,
+    JSON.stringify(result, null, 2)
+  );
 };
 
 const main = async () => {

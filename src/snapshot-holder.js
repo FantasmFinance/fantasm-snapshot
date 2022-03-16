@@ -1,4 +1,4 @@
-require('dotenv/config');
+require("dotenv/config");
 
 const { JsonRpcProvider } = require("@ethersproject/providers");
 const { Contract } = require("ethers");
@@ -67,7 +67,7 @@ const snapshotHolders = async (provider) => {
   );
   await fs.writeFile(
     "./output/raw-fsm-holders.json",
-    JSON.stringify(fsmHolders)
+    JSON.stringify(fsmHolders, null, 2)
   );
 
   const xftmHolders = await getERC20Holder(
@@ -79,7 +79,7 @@ const snapshotHolders = async (provider) => {
   );
   await fs.writeFile(
     "./output/raw-xftm-holders.json",
-    JSON.stringify(xftmHolders)
+    JSON.stringify(xftmHolders, null, 2)
   );
 };
 
@@ -109,7 +109,10 @@ const filterNonContractHolders = async (provider) => {
       })
     );
   }
-  await fs.writeFile(`./output/snapshot-holders.json`, JSON.stringify(result));
+  await fs.writeFile(
+    `./output/snapshot-holders.json`,
+    JSON.stringify(result, null, 2)
+  );
 };
 
 const main = async () => {
