@@ -13,7 +13,7 @@ const main = async () => {
         earnings: BigNumber.from(info.xftm.total).toHexString(),
         reasons: "",
       };
-    }, {});
+    });
 
   const fsmResult = Object.entries(holders)
     .filter(([, info]) => info.fsm.total !== "0")
@@ -23,7 +23,7 @@ const main = async () => {
         earnings: BigNumber.from(info.fsm.total).toHexString(),
         reasons: "",
       };
-    }, {});
+    });
 
   await fs.writeFile(`./output/xftm.json`, JSON.stringify(xftmResult, null, 2));
   await fs.writeFile(`./output/fsm.json`, JSON.stringify(fsmResult, null, 2));

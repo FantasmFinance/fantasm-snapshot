@@ -1,0 +1,4592 @@
+[
+  {
+    "address": "0xC4675FB5e7E29e9b9f4aC3e83d1dd3721a143207",
+    "earnings": "0x0114c435beea773e64",
+    "reasons": ""
+  },
+  {
+    "address": "0x18eb701a52053a29fbFff950Cd168bA07Bdf8c05",
+    "earnings": "0x04d8a7c10f4dceeb7955",
+    "reasons": ""
+  },
+  {
+    "address": "0x06960627461629409a087AF6da50FE4D38d74f7E",
+    "earnings": "0x53f8d5ae0672bf69f6eb",
+    "reasons": ""
+  },
+  {
+    "address": "0x4B811f414f319489B0E2C330F81C889B8CD9BA76",
+    "earnings": "0x29bb88a7e630eb3cd3",
+    "reasons": ""
+  },
+  {
+    "address": "0x3f529523984f91908c551B4ac9432e1049888Fd0",
+    "earnings": "0xdf0c33084ec8120fcb",
+    "reasons": ""
+  },
+  {
+    "address": "0xD236Add356BbE20c842A161080b79a3a8D430c94",
+    "earnings": "0xdef417c88d03b3fca5",
+    "reasons": ""
+  },
+  {
+    "address": "0x3fc0917bA80611A009Bf0812CEF7F2dbc94e8fFC",
+    "earnings": "0x018624fa690a8a1d17c2",
+    "reasons": ""
+  },
+  {
+    "address": "0xB27F71F1DF0FbA047C1F647B0C8f21DfBCdb7101",
+    "earnings": "0x37bf829aed0adc8feb",
+    "reasons": ""
+  },
+  {
+    "address": "0x3e60F152D7AFFc9ad2Da2714c568863D5569510A",
+    "earnings": "0x02363e507e903f054f",
+    "reasons": ""
+  },
+  {
+    "address": "0x193Db18A5EF9a0320b7374C1fE8Af976235f3211",
+    "earnings": "0x3156f198db8a50021f58",
+    "reasons": ""
+  },
+  {
+    "address": "0xe5753E436c05AF5B7a6a2e4088fE611f0Ed269D8",
+    "earnings": "0x05764775c1b4c3e176",
+    "reasons": ""
+  },
+  {
+    "address": "0x12FF3064a07746462D53958f1F6Cf9285eb9cb90",
+    "earnings": "0x3e101fdc874de0b6b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x17b1d9a1a8F0363E04bcCDF2839cB107B2297774",
+    "earnings": "0x0413f41cea3f041dd6",
+    "reasons": ""
+  },
+  {
+    "address": "0xd473DCAe64E0436821c2203221017abEbC1b0d5f",
+    "earnings": "0x3dfcf42b6906937e5d",
+    "reasons": ""
+  },
+  {
+    "address": "0xbb01412C5ff077E35D2B19819CaD9E6Ee28B09d8",
+    "earnings": "0x01ea9d599e3c9bc5d530",
+    "reasons": ""
+  },
+  {
+    "address": "0xEbCD54d901596cE65fa504D96A397E8463d6262d",
+    "earnings": "0x04493e1de7a34fb45423",
+    "reasons": ""
+  },
+  {
+    "address": "0xB1fC41Cbad16caFDfC2ED196c7fe515DfB6a1577",
+    "earnings": "0x8e1ae8171c99db2865",
+    "reasons": ""
+  },
+  {
+    "address": "0x2764D43A8B9Cf15aAfABDE120329eE1bEF95f7E3",
+    "earnings": "0xd21dbb89ec1f0e",
+    "reasons": ""
+  },
+  {
+    "address": "0x4ae31d222b8123A0C882Fa220982dfc17D0B6D34",
+    "earnings": "0x611f0000fee14bdb6c",
+    "reasons": ""
+  },
+  {
+    "address": "0xA5dF027969841163931cdbEa854AE5F57341b019",
+    "earnings": "0x0c119eaef635e0f737",
+    "reasons": ""
+  },
+  {
+    "address": "0x844D365570f4A7776A383487897867d630C9c853",
+    "earnings": "0x0b58403099ff2178e1",
+    "reasons": ""
+  },
+  {
+    "address": "0xFa1695B9852Ed87f0629706eD6ed2F30BFd87A9d",
+    "earnings": "0x4b88480843bf63a047",
+    "reasons": ""
+  },
+  {
+    "address": "0x9Ccc726F6dD5559Ca474c0413A38F550dE46f16b",
+    "earnings": "0x15a87311b3c36064ec07",
+    "reasons": ""
+  },
+  {
+    "address": "0x7a0dD4E1F1A8a9326a119BCF9E550f7d64940D30",
+    "earnings": "0x3ec2f74180f1eb04",
+    "reasons": ""
+  },
+  {
+    "address": "0x96578F3de207423c612Cd86591474F0BBDaf6e4e",
+    "earnings": "0x03a4d5b0bc5618c18719",
+    "reasons": ""
+  },
+  {
+    "address": "0x78B78e80F958112dF9FF5b5628a638919f05B079",
+    "earnings": "0x018dd47295f9f6ddbe79",
+    "reasons": ""
+  },
+  {
+    "address": "0x58941211119d75c0D943F0B9B6DD57621De6B9c7",
+    "earnings": "0x09019036f0ac8e89e0c2",
+    "reasons": ""
+  },
+  {
+    "address": "0xFF9f299C5E95945F549Ad92551B5CF5B8599f713",
+    "earnings": "0x07bd3ddb504911740f78",
+    "reasons": ""
+  },
+  {
+    "address": "0x264Ce17a1ab766232A44C36E5A8BC298680F001f",
+    "earnings": "0xbe73af0a885f257534",
+    "reasons": ""
+  },
+  {
+    "address": "0xfDB32961ffb592696ab13EA8133423A9bdd74C27",
+    "earnings": "0x10c10a4c38be71379b70",
+    "reasons": ""
+  },
+  {
+    "address": "0x13b39775583E0888F9836782aCf9F1E50F767ca4",
+    "earnings": "0x9ae6c5c8c13cf74bd3",
+    "reasons": ""
+  },
+  {
+    "address": "0x4b718D462835755916c2720a3501a335c267d175",
+    "earnings": "0x68f7d7fde65cbb7016",
+    "reasons": ""
+  },
+  {
+    "address": "0xea7dC440678801f77410C86154110F4e555869d8",
+    "earnings": "0x011452216e2df730d2be",
+    "reasons": ""
+  },
+  {
+    "address": "0x6361C82a61c3e519e9b51B3A823d2bCe31FE1DD1",
+    "earnings": "0x01aba36aadc0fbe3db1f",
+    "reasons": ""
+  },
+  {
+    "address": "0x7F6F0E6168E0eF2fA475165e31130bc0dBf0f309",
+    "earnings": "0x02e83d0ee8fbdd52ae36",
+    "reasons": ""
+  },
+  {
+    "address": "0x83a4B2dEB4f92952d38154465e1EA9Bb97BF3e1F",
+    "earnings": "0x0619e2bb98ec55a4bbaf",
+    "reasons": ""
+  },
+  {
+    "address": "0x80451313c3b13236073528415eaCbec7A964B28c",
+    "earnings": "0x0bfcc9f8113878c032",
+    "reasons": ""
+  },
+  {
+    "address": "0x6914fB1eA4A3f8104c7c8209A33418517E30356A",
+    "earnings": "0x0df706e753261dfc",
+    "reasons": ""
+  },
+  {
+    "address": "0x64B3592c82ffc1CC3D5C6c2FDB4e3352a1b3C3E9",
+    "earnings": "0x2a553ba37e86343d6c",
+    "reasons": ""
+  },
+  {
+    "address": "0x1295110ba70622f257edF41a9b2FE2aC1E244029",
+    "earnings": "0x61164331f7d9079798",
+    "reasons": ""
+  },
+  {
+    "address": "0x033232b5322692e3AA2F3671DDD3A7c2829beb20",
+    "earnings": "0x54d810ae3ae9f11ecc",
+    "reasons": ""
+  },
+  {
+    "address": "0xf2Fdc7385410E7A613EBb5DBf5c4861531b1a868",
+    "earnings": "0x61e7720b1d84950806",
+    "reasons": ""
+  },
+  {
+    "address": "0xBB2910f48C8E737605188984333b13BCFED73570",
+    "earnings": "0x038ad58e8eeca31981",
+    "reasons": ""
+  },
+  {
+    "address": "0x3d05BC525aD296c246901f38b23542692AB54A8d",
+    "earnings": "0x06f377ce743eabe07f0e",
+    "reasons": ""
+  },
+  {
+    "address": "0x7c981607189F93e1d7606346b83F7cf13bB19b47",
+    "earnings": "0x194fb8b2331e66b5be",
+    "reasons": ""
+  },
+  {
+    "address": "0x1dBAF5afdD389D34c2AaDeAa94C256994e7331B0",
+    "earnings": "0x9f7e3d9eb3deb2973d",
+    "reasons": ""
+  },
+  {
+    "address": "0xD0e4829eF0bA984524439d2339774501Bb007586",
+    "earnings": "0x137e25f1080f6bf70eaf",
+    "reasons": ""
+  },
+  {
+    "address": "0x2Eb49B8da687A6Becf652ab15b4920C6357d059A",
+    "earnings": "0x05d1de329e80af505d75",
+    "reasons": ""
+  },
+  {
+    "address": "0x9CBF099ff424979439dFBa03F00B5961784c06ce",
+    "earnings": "0x3cdaba3e9b68f9bdb086",
+    "reasons": ""
+  },
+  {
+    "address": "0xA63Bca4aa47e42498889AB5185336FEa54835C7E",
+    "earnings": "0x171f76b68b07ec65d0",
+    "reasons": ""
+  },
+  {
+    "address": "0x9E167a4E9c66a57c8cc4298c99f409b0ccE4c768",
+    "earnings": "0x0197f6891bb7467dec48",
+    "reasons": ""
+  },
+  {
+    "address": "0xEF4BdB66041792F48d0709f0fF90CF9Bb9068D24",
+    "earnings": "0x0439c286d5ffc8e40bfb",
+    "reasons": ""
+  },
+  {
+    "address": "0x4E609a968abeaaF866fde46a400847A9462F5931",
+    "earnings": "0x0121ef90208753b0168d",
+    "reasons": ""
+  },
+  {
+    "address": "0xFFBc808A65104347Ad7eD5ABfFb73748e3805276",
+    "earnings": "0x55c79c99525e5d43",
+    "reasons": ""
+  },
+  {
+    "address": "0x0507B3ffe3836aD0f256f3D53b8fa7653e54E2EB",
+    "earnings": "0x3c445a3c51c3a14d76",
+    "reasons": ""
+  },
+  {
+    "address": "0x061004C3607C1073195C54BA6f9b0F9D2F13a303",
+    "earnings": "0x2539593cb305165fddf3",
+    "reasons": ""
+  },
+  {
+    "address": "0x888F959c8E84A73C3922600AfB2f24165021804A",
+    "earnings": "0x3e526ad5419e3450",
+    "reasons": ""
+  },
+  {
+    "address": "0x626Ea6D1e5Ea3fbaba22F5d4005D98E7039d0C99",
+    "earnings": "0x01460e4360563648422a",
+    "reasons": ""
+  },
+  {
+    "address": "0x0a7aA8FC0aD4697FeF8052359e6280888da4cf37",
+    "earnings": "0xb3ad7bc2ccf6d2bb6d",
+    "reasons": ""
+  },
+  {
+    "address": "0xAcD1e111a9b032AaB0fD1FB0379032D9d3a4dFa2",
+    "earnings": "0x439193b45e32530c1a",
+    "reasons": ""
+  },
+  {
+    "address": "0xfDA21e7dF73763a68211DAe4eD029BdEDb8C5C0A",
+    "earnings": "0x01bace189aee666f40c0",
+    "reasons": ""
+  },
+  {
+    "address": "0x17Ee630D8aa0e9f44fBA41aF50C6B2966349ff17",
+    "earnings": "0x0ab2d5fcef6593bd1ace",
+    "reasons": ""
+  },
+  {
+    "address": "0xF8C2D4b524a9db2FeBDdE954cF72aE8Ffe00ac84",
+    "earnings": "0x08641f9c8cced5c335",
+    "reasons": ""
+  },
+  {
+    "address": "0x800498c79Cc111f4c04745e0569ff275DFE0aD58",
+    "earnings": "0x08fc6dd915f85f75ff",
+    "reasons": ""
+  },
+  {
+    "address": "0x770823F0B08B73941964E9Ed2526Ab5D311fD87E",
+    "earnings": "0x02114db990d52ca4a913",
+    "reasons": ""
+  },
+  {
+    "address": "0x8f4fA5358713460738f74D5AbF25E2bcFE9c9fD5",
+    "earnings": "0x5095586ae421f4b720",
+    "reasons": ""
+  },
+  {
+    "address": "0xCA4642abd4946c8BAB0CE98B738212C376096b4C",
+    "earnings": "0x15bc8a9a57881f9e1b",
+    "reasons": ""
+  },
+  {
+    "address": "0x1F91595Beeb3B167126aaB0F23429B05aD6fc614",
+    "earnings": "0x8f89fd158efea5a753",
+    "reasons": ""
+  },
+  {
+    "address": "0x49063A7fF1e42f6B16aA70b692dFF344903A30c7",
+    "earnings": "0x01b5826bede8bbbd0cf0",
+    "reasons": ""
+  },
+  {
+    "address": "0x3dfDBcA41D2f229d380f002ECb1dA6ab6DE09e7a",
+    "earnings": "0x02ca21d70691b304a5b5",
+    "reasons": ""
+  },
+  {
+    "address": "0x48fB4192a743833Ed28941c96EC0F6Cf8C76D1f9",
+    "earnings": "0x038ddb078a538a8cb7",
+    "reasons": ""
+  },
+  {
+    "address": "0xf5969F0b90e8839bE1815DB707e33B55AdB18efB",
+    "earnings": "0x03272099f4615acd5c17",
+    "reasons": ""
+  },
+  {
+    "address": "0xCFA79f72082B062E5244Fb75e70D25AD39d9aBf6",
+    "earnings": "0x11518981af3e0239c5",
+    "reasons": ""
+  },
+  {
+    "address": "0x2651dd25F150Dad7Bb6CF277EAa502630AF1Df2a",
+    "earnings": "0x022d169cc213a557b8",
+    "reasons": ""
+  },
+  {
+    "address": "0x5E92A688387d317BE3DB80258e199094a0C2a462",
+    "earnings": "0x367d59ead840ca5782",
+    "reasons": ""
+  },
+  {
+    "address": "0x28650D78DF99bcb1c9Aa3EF3787df7d191e908b3",
+    "earnings": "0x5b23485b1ebadac58f",
+    "reasons": ""
+  },
+  {
+    "address": "0x4db24E856f34485BD5ae33E3885cD2e78F6Ad252",
+    "earnings": "0x962a5a2951f157763b",
+    "reasons": ""
+  },
+  {
+    "address": "0xAf45112507f1e1C1B07c6156e268552B64E895e7",
+    "earnings": "0x097e768975a1208c58",
+    "reasons": ""
+  },
+  {
+    "address": "0xE3666187c7Fbd30ea514a00747f27BeF2Df27d69",
+    "earnings": "0x2a75a79b5e27d7b0",
+    "reasons": ""
+  },
+  {
+    "address": "0xa47807B8EAF211B7C553F83CB977314E7bE3892A",
+    "earnings": "0x5286fece99670d816c",
+    "reasons": ""
+  },
+  {
+    "address": "0x7dF1d09a155fAC2e4aAA971946f13Ea9D6b7e0aD",
+    "earnings": "0x04418a87d5fcdaac739d",
+    "reasons": ""
+  },
+  {
+    "address": "0x72E4FAe80f52255E8032A7AF2824106b0Cf9c43E",
+    "earnings": "0x02f96b9d7c5d37a8810a",
+    "reasons": ""
+  },
+  {
+    "address": "0x481E8be618232314BFBe8E47a09B94d425462171",
+    "earnings": "0x19ad1737b7f1e742",
+    "reasons": ""
+  },
+  {
+    "address": "0x1Ff7b0bf44b9fD1c845bA6B769be828be1638C49",
+    "earnings": "0x2a56bd5ad4842e1216b4",
+    "reasons": ""
+  },
+  {
+    "address": "0x869E07Eb487608d7f3C624548fEd206EC589bB25",
+    "earnings": "0x052c046e72b835ec20",
+    "reasons": ""
+  },
+  {
+    "address": "0x6CfB62aAEDcEd9499Fa2A9745f748337F23497FF",
+    "earnings": "0x1bba18e57e7141fe41",
+    "reasons": ""
+  },
+  {
+    "address": "0x9360160eC013E030c0A0159ddC5eFF8c5425014A",
+    "earnings": "0x0b107d92a25b2bda65",
+    "reasons": ""
+  },
+  {
+    "address": "0x784A4cA4982C5C3eBbe37C8E4f9483a04e74CB7B",
+    "earnings": "0x84775de03ce270ffd5",
+    "reasons": ""
+  },
+  {
+    "address": "0xA4e20317ef897060D471678Bc43A7fe003ABb5A5",
+    "earnings": "0x4113efe30476de29d7",
+    "reasons": ""
+  },
+  {
+    "address": "0xBA7F59244EcB7C951bA057205180519Dd7E97761",
+    "earnings": "0x4ae22ec5c4277421",
+    "reasons": ""
+  },
+  {
+    "address": "0x381c57356B68fa4CCfb9804003034b0477cF56dc",
+    "earnings": "0x028c5524ef2fcafde9a1",
+    "reasons": ""
+  },
+  {
+    "address": "0xe2Ad31D62f634B0C3710bDd892183A8FCF8ACb6B",
+    "earnings": "0x0b7428f1eb9ba091ee",
+    "reasons": ""
+  },
+  {
+    "address": "0x00f98bAf21EED79164d1CF99EaE6B4439B96dd46",
+    "earnings": "0xc54b0ed92b6a798ea0",
+    "reasons": ""
+  },
+  {
+    "address": "0x44632ff277CB950365D347A8D389EDD41456ffC9",
+    "earnings": "0x6bce4d83222de4b436",
+    "reasons": ""
+  },
+  {
+    "address": "0x61DA1c9efF10334B371BAa36791Ef78Ad8349E23",
+    "earnings": "0x057449c6d9e70474b5",
+    "reasons": ""
+  },
+  {
+    "address": "0x68Db505560587FF1576891500329398ed5444f88",
+    "earnings": "0x0ed9cfddfeef8f74c3",
+    "reasons": ""
+  },
+  {
+    "address": "0x0A3207c9846282f061C8DaCCD66865F252C1EB9E",
+    "earnings": "0x0c67ddfafe0847",
+    "reasons": ""
+  },
+  {
+    "address": "0xc02645d14327Da3dF4e22acf734572062A4073d6",
+    "earnings": "0xb77fca73341c4b6476",
+    "reasons": ""
+  },
+  {
+    "address": "0x9256af19DDC0CDfB92bEB486eFad4a40bb3aabB0",
+    "earnings": "0xa887c8ac1d44f9d0dd",
+    "reasons": ""
+  },
+  {
+    "address": "0xa91483BcA21D07fBb1B3Aa45a3B0bdf264C5B497",
+    "earnings": "0xe4107080099cb321ed",
+    "reasons": ""
+  },
+  {
+    "address": "0x46dB5c0B084bC78819FF7b82B41ac36e8F0C0B01",
+    "earnings": "0x162fd3196041fec8c4",
+    "reasons": ""
+  },
+  {
+    "address": "0xd376F87249f959555efD518129e29D4D792D4847",
+    "earnings": "0x01ba9b56f2dd93b1f95c",
+    "reasons": ""
+  },
+  {
+    "address": "0x89D6D35a07Db1422f91a7126172c20C4FB99CdaD",
+    "earnings": "0x703c749793c4130b26",
+    "reasons": ""
+  },
+  {
+    "address": "0x1F4FD7F98275D44A48E1DDFB184aa125dC8Aa9AE",
+    "earnings": "0x0706612b14cf41d600",
+    "reasons": ""
+  },
+  {
+    "address": "0xc109C45330576048B35686275372e8a84DAeD552",
+    "earnings": "0x15d21d70a5af33b698",
+    "reasons": ""
+  },
+  {
+    "address": "0x6FF6dfAC4b8BEa957dC48AAD626D7631c2ba208c",
+    "earnings": "0x1945fa1f9c67434ac176",
+    "reasons": ""
+  },
+  {
+    "address": "0x7ed9bD71d9f3944BB6C56a5b0EB6782dFA6dDeD0",
+    "earnings": "0x039d1885db76ce9b8d06",
+    "reasons": ""
+  },
+  {
+    "address": "0x131b5BEC9C1Eda71f30A746CD4CDBCF6B4a159de",
+    "earnings": "0x0d83586af581a71150",
+    "reasons": ""
+  },
+  {
+    "address": "0xA3BD26A577f8e467B719EC30f1bd230474a89617",
+    "earnings": "0x021f053a267e96912183",
+    "reasons": ""
+  },
+  {
+    "address": "0x58b80FF10946cFdA425c81F8619c6C1615A517B5",
+    "earnings": "0x087d945fb2a58f992605",
+    "reasons": ""
+  },
+  {
+    "address": "0x6853285716a92aF6DD07F2F6aeBCA23E5b13f8f6",
+    "earnings": "0x2452a1b325475e",
+    "reasons": ""
+  },
+  {
+    "address": "0x2A09E43F4D93a2611a6c7B87d907AC35e51D59c6",
+    "earnings": "0x0147ed8b89473273b408",
+    "reasons": ""
+  },
+  {
+    "address": "0x417afF82D2cd9fD39fE790Af5798ae865fbe8C48",
+    "earnings": "0x0ec8d2c9afa1c1ee6e3e",
+    "reasons": ""
+  },
+  {
+    "address": "0x46EAa15DDB01c760f19b37fE8C0790696c911F26",
+    "earnings": "0x0aeaac43b5ce765828",
+    "reasons": ""
+  },
+  {
+    "address": "0xE7E02cC23A57dE6AF08ffec1C0770FB3F8f9dec5",
+    "earnings": "0x3820a614abbdf3db71",
+    "reasons": ""
+  },
+  {
+    "address": "0xBa5141c3cD33Dfd3aB9a8224b805c4F62ba3d1e0",
+    "earnings": "0x04161d3e28f0fd6ca3",
+    "reasons": ""
+  },
+  {
+    "address": "0xbaA911126BaCe9d63311fF3163bdbdF579eD363c",
+    "earnings": "0x0142d2cd887ab0b23d",
+    "reasons": ""
+  },
+  {
+    "address": "0xF2Df969F59B2c86E4B230dA88918cDEbCfc4cCBC",
+    "earnings": "0x5234ed8049565f88e583",
+    "reasons": ""
+  },
+  {
+    "address": "0xbb4363CAa5BBfbd2Eb7c64b0Dd7fED85549eb3CD",
+    "earnings": "0x8d0d5db5e9c8e835d7",
+    "reasons": ""
+  },
+  {
+    "address": "0xD38a8EFE7C47E5049Bd65AC57a74Fe4cedfBc371",
+    "earnings": "0xed34b40f8462b023ce",
+    "reasons": ""
+  },
+  {
+    "address": "0xc1A2d8a1182BC200F3bF9529A89FE9249373D709",
+    "earnings": "0x014b6106d975d9bc64f3",
+    "reasons": ""
+  },
+  {
+    "address": "0x3741d279D5E6984B4F1D23B3874295224f1041cb",
+    "earnings": "0x0553df4309443a1714f5",
+    "reasons": ""
+  },
+  {
+    "address": "0xE83Cc6d53217f7259644c9858739AA39E7019772",
+    "earnings": "0x0276c5d077b413f7bb",
+    "reasons": ""
+  },
+  {
+    "address": "0xB006fE5eE0885E35e3f0Deb1acc5fb8F72040A5f",
+    "earnings": "0x07806c6de3970f2e8e",
+    "reasons": ""
+  },
+  {
+    "address": "0xdFE24CaaC6dd8bEF5A43586ADB7201C88387D6C0",
+    "earnings": "0x38308fb7321dedf09d",
+    "reasons": ""
+  },
+  {
+    "address": "0xA3975685833538510CA4E4230a7013a48C559cFe",
+    "earnings": "0x0a80a626d0a5ab9926",
+    "reasons": ""
+  },
+  {
+    "address": "0x8f4884B2555F58651De0AD559786f98D51353Ca7",
+    "earnings": "0x067cbe459c85f736862f",
+    "reasons": ""
+  },
+  {
+    "address": "0xF2e5d6e6E4aecfe0ec0fc7e46a1d430d71706B51",
+    "earnings": "0x64d5b671b04b5040e2",
+    "reasons": ""
+  },
+  {
+    "address": "0xd264bC31A13D962c22967f02e44DAdD8Bbf25232",
+    "earnings": "0x0c70630bfe9e5f2ba4",
+    "reasons": ""
+  },
+  {
+    "address": "0xd80A7b106022B3f87f543a00180EB20C07De552D",
+    "earnings": "0x058cb28bd4e17fb5ed",
+    "reasons": ""
+  },
+  {
+    "address": "0xb70307389B1898b9aAdC8f95dEA3f9df7b798458",
+    "earnings": "0x49e749eee8a4496e1f",
+    "reasons": ""
+  },
+  {
+    "address": "0x29e0B81D1B9997B79DdD2737912b7ba48bAAd097",
+    "earnings": "0x0f7b2ddc30e3a662d4",
+    "reasons": ""
+  },
+  {
+    "address": "0x77AbF64882Fb594BC59F6eeC63d82cF6A13BF5bB",
+    "earnings": "0x0a4d4e238089c5d098",
+    "reasons": ""
+  },
+  {
+    "address": "0x9FaC74DD6081eBb1A2761B55E2caE99aE442789C",
+    "earnings": "0xff587cccc8dee316",
+    "reasons": ""
+  },
+  {
+    "address": "0x2774CdF25039C3CC620350233ADb8D49e5C02666",
+    "earnings": "0x0aee284c908796d16f",
+    "reasons": ""
+  },
+  {
+    "address": "0x4eE4792aaff6F01D8be31E451500f7eE542f543b",
+    "earnings": "0x16d2f3374d417a47ba",
+    "reasons": ""
+  },
+  {
+    "address": "0x4df89D5C65D87F83E4d6f34F69160c01600f26AB",
+    "earnings": "0x074afce680708e4ad6",
+    "reasons": ""
+  },
+  {
+    "address": "0x7BB930C98aA76bac7bC6F4fe6A522ee69138eD64",
+    "earnings": "0x4d2b6a676b3c967027",
+    "reasons": ""
+  },
+  {
+    "address": "0x246e0aA6C9D5dB5846CE1E0Fe5F1816cA338038a",
+    "earnings": "0x027948c8a37c99d339",
+    "reasons": ""
+  },
+  {
+    "address": "0x2C214951b9f9C66C9CE764E94775bf930720EaC4",
+    "earnings": "0x183b038407ea376b62",
+    "reasons": ""
+  },
+  {
+    "address": "0x7D9907f35D4d77661571c7Bef5244E4E2aa460d8",
+    "earnings": "0xbaa571ddeec74bf8a1",
+    "reasons": ""
+  },
+  {
+    "address": "0x36e5E0b50609Cee5c7565b805d0B160008eA6Da0",
+    "earnings": "0x03a3f69bf49980691f",
+    "reasons": ""
+  },
+  {
+    "address": "0x4e7a734a28b5a181e35C28dC43C8494B591d4B55",
+    "earnings": "0xd62cac893d3b50f9da",
+    "reasons": ""
+  },
+  {
+    "address": "0xd7827f74a933aed54A2DE2b41c9e7c1E031345bB",
+    "earnings": "0xbeb1c1ab30b39ca626",
+    "reasons": ""
+  },
+  {
+    "address": "0xe31CFe353dC92D08154Bd54E6047d981c1E27264",
+    "earnings": "0x025ec6af09861021bd",
+    "reasons": ""
+  },
+  {
+    "address": "0xF33d3dF531965f76aef12B466E5974CC3b7eBB6f",
+    "earnings": "0x5896595740a5645801",
+    "reasons": ""
+  },
+  {
+    "address": "0x2981bb8f2883a462C5c413DE604C3B3e36884800",
+    "earnings": "0x034e23e56296f08807a1",
+    "reasons": ""
+  },
+  {
+    "address": "0x70040DfDaD7f35B9dd2758373feEA0642a5552b2",
+    "earnings": "0x38ba47356a18362448",
+    "reasons": ""
+  },
+  {
+    "address": "0x9a0F22B853503239ecCd3aaBFbe51Fb0A5b7015b",
+    "earnings": "0x7425070384277ffaaf",
+    "reasons": ""
+  },
+  {
+    "address": "0xB551776032E4ef6cCa5f2Ec0afEA518F5CFE7e32",
+    "earnings": "0x01ae0a57d647e9552114",
+    "reasons": ""
+  },
+  {
+    "address": "0xe8867549850F0103e65F1a6498b5f0F105082377",
+    "earnings": "0x0d27dda8b0def4a27520",
+    "reasons": ""
+  },
+  {
+    "address": "0x5AfdD71EC312eDa36663f72032f269BD9C950cB4",
+    "earnings": "0x2536a77907da127a53",
+    "reasons": ""
+  },
+  {
+    "address": "0x479f37431Ee55922bAf417f0CC6302CE205cCE0E",
+    "earnings": "0x191ec40a0cb089381c70",
+    "reasons": ""
+  },
+  {
+    "address": "0x7Ea4Ca913D0208eE313b81547d191144D8303112",
+    "earnings": "0x02052a51e1841ebc4d",
+    "reasons": ""
+  },
+  {
+    "address": "0xDF04423b463E4A55c50dD20A0Ea44F34Af32B4EB",
+    "earnings": "0x02286b57526c2df18e0b",
+    "reasons": ""
+  },
+  {
+    "address": "0x329b0F4597B15cd81D6F62DcF2Ad6B3fE1D74d87",
+    "earnings": "0x017da95177cd73dcdab6",
+    "reasons": ""
+  },
+  {
+    "address": "0xAD4EBB60372de91A0ebA4B3c8155a98F1CE8024f",
+    "earnings": "0x019464483aa0ac2455",
+    "reasons": ""
+  },
+  {
+    "address": "0x4bd0083C938885e932FBa72dd11eC18eF3077b2f",
+    "earnings": "0x0a84a5fac523f19965",
+    "reasons": ""
+  },
+  {
+    "address": "0xb0D0B2d1F7Edbe7b591bDD58Dd869CCf6C1A5112",
+    "earnings": "0x0cd47e20b8d92ac4803f",
+    "reasons": ""
+  },
+  {
+    "address": "0xd6F0853Ac388e6C45684820d406cAcF634c1D37B",
+    "earnings": "0x72fe669719547be59e",
+    "reasons": ""
+  },
+  {
+    "address": "0xC2420bc44471Cfd1607A50F689722c6CAbc99566",
+    "earnings": "0x07f68471d8cfcbdae8",
+    "reasons": ""
+  },
+  {
+    "address": "0xe5845761e7773976055F2559ca54be41F09d9E88",
+    "earnings": "0x0417473a62424db1be",
+    "reasons": ""
+  },
+  {
+    "address": "0x9c037CB27BFb666474e264cb9ca554720bb1F102",
+    "earnings": "0x45700eb1f8e5687d6d",
+    "reasons": ""
+  },
+  {
+    "address": "0x2d1bdC590Cb736097Bc5577c8974e28dc48F5ECc",
+    "earnings": "0x083f819134116b4d",
+    "reasons": ""
+  },
+  {
+    "address": "0x9d862954d6e7771D2d3905f310d5803148727DAa",
+    "earnings": "0x49d06b23c2f0f01c69",
+    "reasons": ""
+  },
+  {
+    "address": "0x4b1718580eA31f34bEECFc41A67f9731066D35FA",
+    "earnings": "0xb74db0db38cffe61e9",
+    "reasons": ""
+  },
+  {
+    "address": "0x3e051c89cd06e6867ce98c758fCC665d2148E1bb",
+    "earnings": "0x014d40412ebc470d9168",
+    "reasons": ""
+  },
+  {
+    "address": "0x40BEE13046A78Fea26C8Bc096F4013081e24252B",
+    "earnings": "0x01b0e956b7d492059a",
+    "reasons": ""
+  },
+  {
+    "address": "0x83F2FCBd033944BA62e5cACaDaeBC05919144810",
+    "earnings": "0x0141f9963847528937b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x7C6b59F52578a1bea4F8D750c5B4BB044669B5Cb",
+    "earnings": "0x6d14116edc38623845",
+    "reasons": ""
+  },
+  {
+    "address": "0x9d993fCF62DcA90842e770f8E78a07109225253d",
+    "earnings": "0x0ccd0717b579fb0c",
+    "reasons": ""
+  },
+  {
+    "address": "0x5D20560E40b137D752e22bf6A2A18cEe634A6DeE",
+    "earnings": "0x04dbd081d37314e83c",
+    "reasons": ""
+  },
+  {
+    "address": "0x5EAfdeD5D66cde8Dcdb3EFD465FB3a1556AB2D9a",
+    "earnings": "0x31425120984e89ed76",
+    "reasons": ""
+  },
+  {
+    "address": "0x4F2b5981D89A1C60Bc73eA23edef2797447B3C17",
+    "earnings": "0x59f0250e6cfc4bb32617",
+    "reasons": ""
+  },
+  {
+    "address": "0xB11766A8c7329bDCbAE6bF833B578559d385d37b",
+    "earnings": "0x37dbca1cac308caaa7",
+    "reasons": ""
+  },
+  {
+    "address": "0x2e64e85362f581F2aBf0654Bf77eAe5Ef8191A4C",
+    "earnings": "0xbb4c5e7f9f94a9a9",
+    "reasons": ""
+  },
+  {
+    "address": "0x3c89feC3aDd209EFfCA50719a85ff0C31581Ba72",
+    "earnings": "0x0cda2b2eff841c8946",
+    "reasons": ""
+  },
+  {
+    "address": "0x6F81a200ABC0CbD9BFE47D10ed498018f789137B",
+    "earnings": "0x19a75910e2919d7f0d",
+    "reasons": ""
+  },
+  {
+    "address": "0xE5656D9cF64FF41CEb7e26E819D70df8B66d1595",
+    "earnings": "0x54f9b2ec8b7f2aa6",
+    "reasons": ""
+  },
+  {
+    "address": "0x2f7fcdd865248B95c6779b8313A86Fc6a1ad6E31",
+    "earnings": "0x02dc8f33128c0e98ab67",
+    "reasons": ""
+  },
+  {
+    "address": "0x9f5810960af877e908637FCC4b3aD87f53469232",
+    "earnings": "0x387dc93c8d98b73cc3",
+    "reasons": ""
+  },
+  {
+    "address": "0xC084bedE87eB4337E7176578C4e2096797063A67",
+    "earnings": "0x46b6746eceefff8fb4",
+    "reasons": ""
+  },
+  {
+    "address": "0x77380F9f196A89d0543b3C1a1317D86c10Fd9c83",
+    "earnings": "0x41635a7097091d7868",
+    "reasons": ""
+  },
+  {
+    "address": "0x099D2e2C41887c3BCA4eB34F8019eCCfF3497D91",
+    "earnings": "0xeeeb28b90dd79b3f62",
+    "reasons": ""
+  },
+  {
+    "address": "0x119481Bb135CA231953d82267EAc277A6609BB09",
+    "earnings": "0x0cf652250dbb4c8f63",
+    "reasons": ""
+  },
+  {
+    "address": "0x26b495063f021D7A334195fE2b8449F9C28dFB50",
+    "earnings": "0x04afe95fbe3526f2ae51",
+    "reasons": ""
+  },
+  {
+    "address": "0xa23cdA67a1f3a7a7212e798D9D50a5De0DBd86ca",
+    "earnings": "0xb4b76b9f31f4d6510c",
+    "reasons": ""
+  },
+  {
+    "address": "0x7AbaD0BB1E6e54DD7fFec5d1C53adf186F8e652e",
+    "earnings": "0x303c778c4a2e3f6b0e",
+    "reasons": ""
+  },
+  {
+    "address": "0x60fB4B046b07cE529fb93598286339873d26DD0C",
+    "earnings": "0x01194714073644178c",
+    "reasons": ""
+  },
+  {
+    "address": "0x1d5C7762b24D6926276dBFC272883a9Fc0eCa8F7",
+    "earnings": "0x38a0d7d7d8c19095e5",
+    "reasons": ""
+  },
+  {
+    "address": "0x536d477E34DA846a9E32d30dB7b84700dDf7c48C",
+    "earnings": "0x1e3b4158ac17128652",
+    "reasons": ""
+  },
+  {
+    "address": "0x330AD0d38e9c12cbC34d7cfFEFCd99E5530b6bfb",
+    "earnings": "0x1bfa4f8d7ca8af4413",
+    "reasons": ""
+  },
+  {
+    "address": "0x7ba8b36eBa79478A8e7534825B34c9Aa531B3c8B",
+    "earnings": "0x050d59a85bcf8c62d4",
+    "reasons": ""
+  },
+  {
+    "address": "0x47432D0827aBFB610C719d39508486ebaBd4B72B",
+    "earnings": "0x13437104527aaeb0d47a",
+    "reasons": ""
+  },
+  {
+    "address": "0x5e49492c0dCd3e7e631929B64214E1a3628AedDd",
+    "earnings": "0x0a0bf04ca967052a5caf",
+    "reasons": ""
+  },
+  {
+    "address": "0x1Ae16D0cd70d88190edDbBBc01db4cAf7cdCB598",
+    "earnings": "0x04668352c768ec465f",
+    "reasons": ""
+  },
+  {
+    "address": "0xa12e63D94Bb41DAE5d8E9DBccf947A683e693Cfe",
+    "earnings": "0x315893ba892fa1b791",
+    "reasons": ""
+  },
+  {
+    "address": "0x091E26376f89d0c6A97467cB57Eae050A43821dD",
+    "earnings": "0x332b1e0f7689899e59",
+    "reasons": ""
+  },
+  {
+    "address": "0xb8eE04aFbF030119CD58Ef67f645faD5D268358a",
+    "earnings": "0x035e1851ca0b7ba0e1",
+    "reasons": ""
+  },
+  {
+    "address": "0xe4cDe9Fa04069fCC3306D81BF941331fE4bb6148",
+    "earnings": "0x059a35046c08943fe0",
+    "reasons": ""
+  },
+  {
+    "address": "0xcAb3E6E885F2Ba18e53A3c6F935738cA81673EEe",
+    "earnings": "0x02c5068181f6e2763461",
+    "reasons": ""
+  },
+  {
+    "address": "0xf459bEdE8a924aC3C0404D05b684316E915E16d5",
+    "earnings": "0x022cd391e8b9da758f",
+    "reasons": ""
+  },
+  {
+    "address": "0xF31BD9967FF19bf5EB96878F8881017c7d4a514d",
+    "earnings": "0x381fffb19dd14867",
+    "reasons": ""
+  },
+  {
+    "address": "0xbB8a15DD6F5ad563d127700BC5086d82AD75021E",
+    "earnings": "0x01ae7feb62d3ce2c69",
+    "reasons": ""
+  },
+  {
+    "address": "0x6D42977A60aEF0de154Dc255DE03070A690cF041",
+    "earnings": "0x0143ba459606f43ad593",
+    "reasons": ""
+  },
+  {
+    "address": "0x565456e0D5dAa77CF78c14aED962294264787784",
+    "earnings": "0x079df25a3509958c74",
+    "reasons": ""
+  },
+  {
+    "address": "0x8B47Baf36D177703557533afB62d319c4a513c88",
+    "earnings": "0x1ab892a0c946b2e3c3",
+    "reasons": ""
+  },
+  {
+    "address": "0x04E323a0e4f70133624aE5B8d0116F3A225a4c83",
+    "earnings": "0x2f467c3ac6fe980daf",
+    "reasons": ""
+  },
+  {
+    "address": "0x18C2d5c2421171244DeADFC0D787890e73C06b8d",
+    "earnings": "0x11aa67d0f9f25ee514",
+    "reasons": ""
+  },
+  {
+    "address": "0xB6F8cB13695b1ff527246122150357bdE442e9f4",
+    "earnings": "0x10939cf5c28adbe1ce",
+    "reasons": ""
+  },
+  {
+    "address": "0xf29593aC58C78ECC0bF1d0e8B55E819c5B521aE4",
+    "earnings": "0x33c4865ac59268304d",
+    "reasons": ""
+  },
+  {
+    "address": "0xcd812016b15e1937e281B7B7b1F1654e54CC0818",
+    "earnings": "0x0222072dd5e17b49c79f",
+    "reasons": ""
+  },
+  {
+    "address": "0x8ec74a7973F6d45c4b7e4F9985681D4b561b4073",
+    "earnings": "0x0125982a072b5fa597",
+    "reasons": ""
+  },
+  {
+    "address": "0xa06dB3397A148CC36fFaf76e13E2fb8aA4f13a5e",
+    "earnings": "0x7b34ca61fcfb11acb8",
+    "reasons": ""
+  },
+  {
+    "address": "0xAB6E1938D982dBDE84a1F4aF0e268aC1C3113f99",
+    "earnings": "0x9dd1eafdfc1c105d1b",
+    "reasons": ""
+  },
+  {
+    "address": "0x4C23DFcd99036cd1FAab8F7043Ec4648AFCAed17",
+    "earnings": "0x047be39ef066d0361a",
+    "reasons": ""
+  },
+  {
+    "address": "0xF72d37284EedA7D64B6EF289e710E4EF6937b305",
+    "earnings": "0x021320cbafe546adb593",
+    "reasons": ""
+  },
+  {
+    "address": "0xf682bf6EB26fd1083f0b499d958634Fe453CF146",
+    "earnings": "0x2087168e1771b86301",
+    "reasons": ""
+  },
+  {
+    "address": "0x6FB2775c1424B5B10bD810bE11f68274264a7E48",
+    "earnings": "0x5f3ae7fc5c5d2ba4e5",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A36cd93FeC0edBA9E0606C9152f0a3cd9921854",
+    "earnings": "0x7245823a0b64af7d73",
+    "reasons": ""
+  },
+  {
+    "address": "0x79a5238cA7A03E4eDBA556FD721A0941228E473a",
+    "earnings": "0x094973ccd30551f53a",
+    "reasons": ""
+  },
+  {
+    "address": "0x8330D58cC6458a1579F11f68E466829f1d19c78c",
+    "earnings": "0x0b53b55d7b7f6c929c",
+    "reasons": ""
+  },
+  {
+    "address": "0x5DD42168351D30e010b0A195fEc01E9Ac7aDd51e",
+    "earnings": "0x04d644eeac75a1e22f",
+    "reasons": ""
+  },
+  {
+    "address": "0x83D9eb7a010FbACa275AC12f5A5DAF75505ed656",
+    "earnings": "0xa658c744ee40c93502",
+    "reasons": ""
+  },
+  {
+    "address": "0xA41CCddaDc8df2510cF4B2C4e3AfA2A753edFe40",
+    "earnings": "0x0ceb554c070ac9cc97",
+    "reasons": ""
+  },
+  {
+    "address": "0xD2DC28B1A15A7d75957Be771F38aBBc25Ff295Dc",
+    "earnings": "0x01da4e5fe46168828c5a",
+    "reasons": ""
+  },
+  {
+    "address": "0xE0cfE86F3f5eD07c18CE132ec7FF6FD98Df4EeBA",
+    "earnings": "0x0dd13f9a9400fe00",
+    "reasons": ""
+  },
+  {
+    "address": "0x18b2555b76A24ce30fe678D601dA01d57C9f1879",
+    "earnings": "0x01f0ebd8bd6c3ecc56",
+    "reasons": ""
+  },
+  {
+    "address": "0xa569bDe5297CC76CC939CA3B8Ac4505F20936b11",
+    "earnings": "0x63af1cd336ecd172a7",
+    "reasons": ""
+  },
+  {
+    "address": "0x5B46F20baD6E65d11F4fEbA324b8fEa4853CFAC2",
+    "earnings": "0x040c5d663f6b9280d0",
+    "reasons": ""
+  },
+  {
+    "address": "0x310a0a01824196DBe7B10F7a0bFe2d38267c2201",
+    "earnings": "0x0b264d5478e5cd4bb9",
+    "reasons": ""
+  },
+  {
+    "address": "0x7C9457A775015Eee6e098Cb1a4Ba6CF9b0fDF3C0",
+    "earnings": "0x022d7b1a7f9ce218ca52",
+    "reasons": ""
+  },
+  {
+    "address": "0xf68087609423e459EadA3D02C7B0Bd538220d02F",
+    "earnings": "0x29b449563a803683d4",
+    "reasons": ""
+  },
+  {
+    "address": "0x24c20bBf3827406c0C2e6D852b59AE65c6490983",
+    "earnings": "0x685a01351fd63ba8",
+    "reasons": ""
+  },
+  {
+    "address": "0x915024D3568356308c903285A579C0c64690c3c2",
+    "earnings": "0xf5392994d1d91d64",
+    "reasons": ""
+  },
+  {
+    "address": "0x9118D68731DbCE7198E5AFf027a1E8cf2c469Aa4",
+    "earnings": "0x10db408418a8320ed9",
+    "reasons": ""
+  },
+  {
+    "address": "0xcA78B199576811b5078F8D38b4966A7114c1C98F",
+    "earnings": "0x67883c39391ec36f",
+    "reasons": ""
+  },
+  {
+    "address": "0x3f570c310B6E30BD033981d9d9c30507caec3123",
+    "earnings": "0xe974fc98b9acda4e80",
+    "reasons": ""
+  },
+  {
+    "address": "0x61a2d7fBB7896ff31f6F0F8e8aBE72724B23B05b",
+    "earnings": "0x4eee65995808183f",
+    "reasons": ""
+  },
+  {
+    "address": "0x16837b959F30C13a3a3B3567df9d48f4ca47A976",
+    "earnings": "0x022be0d49f59bbda3f",
+    "reasons": ""
+  },
+  {
+    "address": "0x22f851bCF7353d072Ed5Cce3cAff096195D2794e",
+    "earnings": "0x4166c9ca0eda03313f",
+    "reasons": ""
+  },
+  {
+    "address": "0x48C01B48E976E825a97c1087763fE27758174FD2",
+    "earnings": "0xaf75c63bdd2f6051a0",
+    "reasons": ""
+  },
+  {
+    "address": "0x60A2D2D07d6A71f793A548C311D0620A61A79eAd",
+    "earnings": "0x1c3abc5d539b4dc6e7",
+    "reasons": ""
+  },
+  {
+    "address": "0x8CcD7d3366BED0EBE9809fC1e2D77d9A4A1Da2e8",
+    "earnings": "0x49660b256189dd9ed1",
+    "reasons": ""
+  },
+  {
+    "address": "0x3A55E080D4109F68709D9cAE342f2719dE6860ce",
+    "earnings": "0x1dcb407b135b43597a",
+    "reasons": ""
+  },
+  {
+    "address": "0xF091B39CA2c3176F13ac94BB9DDE02059e0B888A",
+    "earnings": "0x200be00a084508d3de",
+    "reasons": ""
+  },
+  {
+    "address": "0xAC4973f472cB9066A1eA63Bd39D2f22d2F852CcD",
+    "earnings": "0x32960d7a4204",
+    "reasons": ""
+  },
+  {
+    "address": "0x05Ee3c534b3c640889148539568847B034424bE8",
+    "earnings": "0x2e694d91a0c7616ffa",
+    "reasons": ""
+  },
+  {
+    "address": "0x876aAC6d7f296611789ED7C4178ba69B6058dcD9",
+    "earnings": "0x0941f17f9dc6381c33",
+    "reasons": ""
+  },
+  {
+    "address": "0xa978fb9E9eD41A2359D302f3E0C433e3eB187F4c",
+    "earnings": "0x61ca6af6633269a4ea",
+    "reasons": ""
+  },
+  {
+    "address": "0x46C4c4781fBCbD501e11eF8D87180c44026a3EC5",
+    "earnings": "0xf34dcf01681024da",
+    "reasons": ""
+  },
+  {
+    "address": "0x9540C3c637Bc5E14d5856e8a74EdE50AfFb3aCCf",
+    "earnings": "0x0eb2546fa3b44a4974",
+    "reasons": ""
+  },
+  {
+    "address": "0xBc6eA2b91C6B81Eed5bB9CCcB0eb0ebe66d81cdd",
+    "earnings": "0x27fecd9b1d685679b1",
+    "reasons": ""
+  },
+  {
+    "address": "0xd6dB80514807bC38CF00935Bf55F87fD3B631D19",
+    "earnings": "0x147f9bc254aae1c58b",
+    "reasons": ""
+  },
+  {
+    "address": "0xB991C62bB00c1D877D0101a66b5D575f48f41f36",
+    "earnings": "0x0f6d32fecb48623280",
+    "reasons": ""
+  },
+  {
+    "address": "0xC1c1fdadD3f76Ff4E34F6f3f0b00F4dB9B539A8F",
+    "earnings": "0xb996a64aeb7ab7c4b0",
+    "reasons": ""
+  },
+  {
+    "address": "0x545A188F57E30397736fC56931fC187DBfcec139",
+    "earnings": "0x343e25783a70cba8f9",
+    "reasons": ""
+  },
+  {
+    "address": "0xb98b9B4f7565CeA5d2cfc800C53CbF195122753D",
+    "earnings": "0x010fe4938de3386aa76e",
+    "reasons": ""
+  },
+  {
+    "address": "0xcf1480169090995192af5D2FC261826a72318d9F",
+    "earnings": "0x8860da4b15301dc335",
+    "reasons": ""
+  },
+  {
+    "address": "0x63C4Bd4A381ce9256EDd716c541FC82664b58113",
+    "earnings": "0x57883da0d995a2ed00",
+    "reasons": ""
+  },
+  {
+    "address": "0x960A04f4Edb850f0B2ba4970115112Aa75B3863e",
+    "earnings": "0x01108a646b3e1dae8fea",
+    "reasons": ""
+  },
+  {
+    "address": "0xA763fd02323D706902dfB76190b017664f022eDF",
+    "earnings": "0x01a450145437a84085",
+    "reasons": ""
+  },
+  {
+    "address": "0x76274304E878458F59b4e31805e3C054aD30ed30",
+    "earnings": "0x020f",
+    "reasons": ""
+  },
+  {
+    "address": "0xbDd8EF14cFD479fD3F0b129A8947Eb7921a871AA",
+    "earnings": "0x3d05fd6b2f4680a2",
+    "reasons": ""
+  },
+  {
+    "address": "0x63005fb96f8305deBA96bC1441B760A035312b9F",
+    "earnings": "0x0205b35bd08df1bc7e",
+    "reasons": ""
+  },
+  {
+    "address": "0x77535f89890C50Be9B0DD5FC1045554fd2e85D9C",
+    "earnings": "0x2589861c63fa1ca237",
+    "reasons": ""
+  },
+  {
+    "address": "0x32BA18E3CF8bC8d6bf97A4951c21ffc31fCA62E9",
+    "earnings": "0x0d658bd9f6",
+    "reasons": ""
+  },
+  {
+    "address": "0xDcF2863ab51C24822E98e3A177E74B9fB7c6DD6A",
+    "earnings": "0x0cafe5b317d47677da",
+    "reasons": ""
+  },
+  {
+    "address": "0x095B9C41921415636F91F9B5754786Ed6CA6f1d4",
+    "earnings": "0x074fc94ed43fc47135",
+    "reasons": ""
+  },
+  {
+    "address": "0xEF0085A4a1E3ae1CfC4af6c180AfEac024818C68",
+    "earnings": "0xf8a9cfafcb18777426",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A3D62E8D5e5491Ab52Deb63748431dcdB624700",
+    "earnings": "0x1aec9348569c972fc0",
+    "reasons": ""
+  },
+  {
+    "address": "0xe97fECEBdE0E222c4DFded8F9Da7A8Dd8f8559bB",
+    "earnings": "0x7c833f713298ecf1e0",
+    "reasons": ""
+  },
+  {
+    "address": "0xEB6800486cB5FFF0283508991f21e4F536386071",
+    "earnings": "0x06d7d6107f721a8a4b",
+    "reasons": ""
+  },
+  {
+    "address": "0xbD3B77cfF3De95C567227E62aEFCC7670a0b04db",
+    "earnings": "0x02f7491d7f2dda1d2a",
+    "reasons": ""
+  },
+  {
+    "address": "0xBD8131c92367569f2f20251D76ab5A6FB511Bef8",
+    "earnings": "0x01a2e3f901ed1cc3da",
+    "reasons": ""
+  },
+  {
+    "address": "0xa5D639DB8e31fa5C96C072f176142d791092eC26",
+    "earnings": "0x0bb9eb8d54d5157c1b",
+    "reasons": ""
+  },
+  {
+    "address": "0x23376527E49b3Db2A1d382583c2F65400cb1f33d",
+    "earnings": "0xb8fb63feb72da9664f",
+    "reasons": ""
+  },
+  {
+    "address": "0x3071F0Fd0a73297bF52e07f35A3BF079E492b500",
+    "earnings": "0x03d82d3451a45c10c9",
+    "reasons": ""
+  },
+  {
+    "address": "0x47eb9FCe95c1D6755Ff02e3389E2098dCa2f8FF4",
+    "earnings": "0x1fc3329a625adca721",
+    "reasons": ""
+  },
+  {
+    "address": "0x380Af09c5C9E92CAe758f835C05159bc8e6DBffe",
+    "earnings": "0x1473bfaab4b437a68e",
+    "reasons": ""
+  },
+  {
+    "address": "0x0e641dAAB37E1687264AC04F863E380b92a5e4d1",
+    "earnings": "0x019171ea32d7244930",
+    "reasons": ""
+  },
+  {
+    "address": "0xF4A32fcB377EeF9A582Edd23BC27d69B5D8b586d",
+    "earnings": "0x1bcbccdd62b36a8181",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A6fc9CB94B0c74624598bFaf41BDd4d1B5A4091",
+    "earnings": "0x2fe8ead869d89fb3a8",
+    "reasons": ""
+  },
+  {
+    "address": "0x7B61766716e466331a2d302c0C0382AF97F30F51",
+    "earnings": "0x01a3e28b6c7be592a8",
+    "reasons": ""
+  },
+  {
+    "address": "0xb69b1e83F7153790776F38F35f83831c9C1bE01f",
+    "earnings": "0x0c8252e2f4b7c6033e7d",
+    "reasons": ""
+  },
+  {
+    "address": "0xA04C4a57870673d05ca9d31BbAf4Bd077B278db2",
+    "earnings": "0x018e484beb9a0d3cda",
+    "reasons": ""
+  },
+  {
+    "address": "0xf98F0CE575aCEF9b6b1Da72b05Fa65b7a0068adF",
+    "earnings": "0x1f57caeb2ea7eb46f9",
+    "reasons": ""
+  },
+  {
+    "address": "0x132d6350E506911967eD29E0aBcB0c686A02CDDE",
+    "earnings": "0x0592d7a5f9807a1451",
+    "reasons": ""
+  },
+  {
+    "address": "0x05aE8b2E643dfdBF9858e4d7A63AEFe7933F6030",
+    "earnings": "0x0722743202de3e03d8",
+    "reasons": ""
+  },
+  {
+    "address": "0x6Bd0E7AB4Ef8543460858FA69A22e6cc4bADe8BB",
+    "earnings": "0x0243c476585898e68e4d",
+    "reasons": ""
+  },
+  {
+    "address": "0x62172b838724a9Ad965F278f1d2438BB2Ab20ea2",
+    "earnings": "0x02ef8c23309919cec0",
+    "reasons": ""
+  },
+  {
+    "address": "0x71AaBeCe380059ad48e943816d8EC479BeA7fB0a",
+    "earnings": "0x799331428c85172917",
+    "reasons": ""
+  },
+  {
+    "address": "0xAAD44134E94401D0Bd50f04BE24adDee3218Be37",
+    "earnings": "0x145d6af05e8f7bc68c",
+    "reasons": ""
+  },
+  {
+    "address": "0x70adbd23F1f890C98A0dcB3552DEb5491690B1Df",
+    "earnings": "0x024f4e802203484d51",
+    "reasons": ""
+  },
+  {
+    "address": "0xAd36c2a253dedD7fE5a79cD0841dc078d7A093B9",
+    "earnings": "0x082edfc985c16a5d5f",
+    "reasons": ""
+  },
+  {
+    "address": "0x0753f4142AD5be86855708C5b52fE1A980Ac169b",
+    "earnings": "0x034709f8a7d018492b",
+    "reasons": ""
+  },
+  {
+    "address": "0x07F797310f46e29A50f95a4cC3BcE78dAEF23677",
+    "earnings": "0x539996850127a8be",
+    "reasons": ""
+  },
+  {
+    "address": "0x1d9237EA33E6f3B7D6f1036089aA9Ac1357A58bC",
+    "earnings": "0x1b3be49234b9e36e6d",
+    "reasons": ""
+  },
+  {
+    "address": "0xbaa5b84E21153Bf80C894dC9237EAa59470EecAC",
+    "earnings": "0x03a5135a3c22b32e6d",
+    "reasons": ""
+  },
+  {
+    "address": "0x499f7A13b0932222892F43B403b568f719AF8f12",
+    "earnings": "0x45044c6ae89fc5c9",
+    "reasons": ""
+  },
+  {
+    "address": "0xC3E36DaDC27e4dD96ca436d5d7da0Bb6D6f7Cd11",
+    "earnings": "0x0346d4f2185e0850ba",
+    "reasons": ""
+  },
+  {
+    "address": "0x41E0d6fD4F722F39b3168E2CAC4da2E0a2B8fE6B",
+    "earnings": "0x074a1e7118f5c74120",
+    "reasons": ""
+  },
+  {
+    "address": "0xa48869098E6fCf7C67E19463938bD1209AB253Df",
+    "earnings": "0x0413000f594d402dea",
+    "reasons": ""
+  },
+  {
+    "address": "0x1541E126f7EA2012D59F0d0Fd2B6a500eFf5135a",
+    "earnings": "0x5a2debf53c5cd2f045",
+    "reasons": ""
+  },
+  {
+    "address": "0xBD2947900a27aa693C1b2599F8539f42887C7Bcf",
+    "earnings": "0x02e6e5237142e34617",
+    "reasons": ""
+  },
+  {
+    "address": "0x7e8b61e3728cB35f79E3EAe190ea5a758073Ca95",
+    "earnings": "0x014f9a5d79076fd6d421",
+    "reasons": ""
+  },
+  {
+    "address": "0xa84f4A753f9459fa64862cab91B260d7367DFD19",
+    "earnings": "0x92d0941f13de515c93",
+    "reasons": ""
+  },
+  {
+    "address": "0xAa8c0D2E2cB00e8eB01f5970E8E54C35b7e96bA6",
+    "earnings": "0x0cecdf569c0699aff1",
+    "reasons": ""
+  },
+  {
+    "address": "0x07bD704A085D516cca4A24fC5772e86F72C02189",
+    "earnings": "0x16434b13945a3861b1",
+    "reasons": ""
+  },
+  {
+    "address": "0xA161cd8CaeB94e11b1e8bcF175b895e38275A89C",
+    "earnings": "0x0531128edc92b80551",
+    "reasons": ""
+  },
+  {
+    "address": "0x17006b713834a32A7D897d7930036703B21c8570",
+    "earnings": "0xa3baf6a3967d34982f",
+    "reasons": ""
+  },
+  {
+    "address": "0x54eCb5Be4f82736bF1734Cc9960715eA2a4C20fD",
+    "earnings": "0x242cf8dfd67934d2f6",
+    "reasons": ""
+  },
+  {
+    "address": "0x7E13b262daB598Dd9d4e11a5Bc61c3097aF73088",
+    "earnings": "0xa3d5bd06942c178088",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A2dbcaE7Eb8ba0cd2E1AB1fA59b3cC472846E55",
+    "earnings": "0x021fa428e3e3d9ba9a99",
+    "reasons": ""
+  },
+  {
+    "address": "0xd51c443459CdAF89Aaa4451EA904B19e7f060112",
+    "earnings": "0x0fc6675352a97c2747",
+    "reasons": ""
+  },
+  {
+    "address": "0x046Ae0974283A9Acf5cb4228a93d000c6d0FFd76",
+    "earnings": "0x04ab99117c5f2986b0",
+    "reasons": ""
+  },
+  {
+    "address": "0x41A2d055be8e95FE9021ba64d9e5687eCc43E7fF",
+    "earnings": "0x7c867ff581948000",
+    "reasons": ""
+  },
+  {
+    "address": "0x829335c1b224E34A463Fd2bb26a0d23e5fa04575",
+    "earnings": "0x5b8bb0903acb6213e3",
+    "reasons": ""
+  },
+  {
+    "address": "0xC397aA2FC47a2Cb6fE74E393C2E79049d26c7A24",
+    "earnings": "0x2c8dcdfacfe4242259",
+    "reasons": ""
+  },
+  {
+    "address": "0xC81DC8F793415B80d7Ee604e936B79D85BD771B6",
+    "earnings": "0x1bcc8693bfb63a9c",
+    "reasons": ""
+  },
+  {
+    "address": "0x56c0E3AAdC595F60d21DD3e9A5A91d8e9703121E",
+    "earnings": "0x022377c92a79cbffa4f7",
+    "reasons": ""
+  },
+  {
+    "address": "0xB32E6c7189E6f8b1EbF54E1402837EADD7aE1e14",
+    "earnings": "0xaf7fb856621b3791e9",
+    "reasons": ""
+  },
+  {
+    "address": "0x2d209dEbAc2E9a4DEDb700606571De8207f611c4",
+    "earnings": "0x0dd60e37b9108000",
+    "reasons": ""
+  },
+  {
+    "address": "0x6Dc29b68f79Db9b5f3EC99E95605ed43b9ceB7e8",
+    "earnings": "0x05bdd6457bf8142665",
+    "reasons": ""
+  },
+  {
+    "address": "0x2906C780E7a6F098D1569Da398c71DD1769CCDdA",
+    "earnings": "0x04b2b2d4f52c848039",
+    "reasons": ""
+  },
+  {
+    "address": "0x9cc85F020B2544dc551e4412F0CAaa4cEEeEb056",
+    "earnings": "0x05bd1b52826b16207a",
+    "reasons": ""
+  },
+  {
+    "address": "0xe07AEbAE8FfE4982Cb211121b0297F40D84B694a",
+    "earnings": "0x8b5609cb9b9306b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x167B7e493A275b8F1Ed300b925D1b9Ed182fc55C",
+    "earnings": "0x0e441f1702bc34c6ce",
+    "reasons": ""
+  },
+  {
+    "address": "0xfB5d5E142EB4af7cef7d0AE17265755aC1434C0A",
+    "earnings": "0x078fa50a87732cfcc2",
+    "reasons": ""
+  },
+  {
+    "address": "0xFEC39F0F0F9EeC29aC2884b19F9C3dF2EC2f93dA",
+    "earnings": "0x016a104772f0c33ffd",
+    "reasons": ""
+  },
+  {
+    "address": "0xBA14977adcfC73f1552C5c510B9BfF83D95f346B",
+    "earnings": "0x01557c5407abab88f994",
+    "reasons": ""
+  },
+  {
+    "address": "0xAFD84838F03b6D94F3dae1354b466A842Be5DbF2",
+    "earnings": "0x056f08d126940a75c8",
+    "reasons": ""
+  },
+  {
+    "address": "0xE4419e7A3Ab2447c857AB51a84C92a003D634135",
+    "earnings": "0x015d06db41322ae5e5",
+    "reasons": ""
+  },
+  {
+    "address": "0xe9A683319D832fE8160adC11F04170CfbE0D222D",
+    "earnings": "0x464d3c978be29012a5",
+    "reasons": ""
+  },
+  {
+    "address": "0xB6e156Fc4C8b19aC1Ac4151396F9f47F12255C2a",
+    "earnings": "0x2e3aa685652a3f87b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x9702219A295801852357994DbfAEA84fcE3590Ca",
+    "earnings": "0x03f6fd3590b9a4060d5b",
+    "reasons": ""
+  },
+  {
+    "address": "0x7BFB204C160EED4d6b26f712d61d68be6A54736d",
+    "earnings": "0x15e3a47e27c71a8000",
+    "reasons": ""
+  },
+  {
+    "address": "0xE611e1Fe5A69385593A76C934fdd90B0270A79e0",
+    "earnings": "0x12b3e097a8fefe3372",
+    "reasons": ""
+  },
+  {
+    "address": "0x991d8CE51eBfdB76896Adb07140be0A15DC007B8",
+    "earnings": "0x1a3d76bdd8e1224210",
+    "reasons": ""
+  },
+  {
+    "address": "0xDa6Bd5618562ab1414230567B9e2Dde9C64798A0",
+    "earnings": "0x026f09688ad8e996",
+    "reasons": ""
+  },
+  {
+    "address": "0x27AD9ecd748bF64d33775cfe7DfE5c0aF889A7e3",
+    "earnings": "0x03bb13a4ab97d03995",
+    "reasons": ""
+  },
+  {
+    "address": "0xA0ebF4f41BA800A534883DaEb0b661029986385c",
+    "earnings": "0x367b6f475c2f66ce7d",
+    "reasons": ""
+  },
+  {
+    "address": "0x51eEe2aCD7Afa3FD5EC434664ba4662ea81B8310",
+    "earnings": "0x1bdeaf962c80b2be",
+    "reasons": ""
+  },
+  {
+    "address": "0x20ac2c094c6F923C6e7b5f7f96e386e5b3206262",
+    "earnings": "0x01c1c471c7d035b642",
+    "reasons": ""
+  },
+  {
+    "address": "0x3BCF4D16A41f1Dca80a1441343d007111C8E72cC",
+    "earnings": "0x03622d58515f15cd11",
+    "reasons": ""
+  },
+  {
+    "address": "0xb19157ec2B84885Cf43bc4375446768e2e1a18b2",
+    "earnings": "0x20611c5cdcd540f4db",
+    "reasons": ""
+  },
+  {
+    "address": "0x4F9a5346aB1dede54ef3072244e690c811c99d03",
+    "earnings": "0x022b5b0c73c2a46754",
+    "reasons": ""
+  },
+  {
+    "address": "0x60E9301074973bD9F2d5a03e84a75d1d462a0610",
+    "earnings": "0x995d65f425314c40",
+    "reasons": ""
+  },
+  {
+    "address": "0xEB70317f4393c480b5a981E2e7a3E98B1DF60567",
+    "earnings": "0x08675a36b5e4c1d8a3",
+    "reasons": ""
+  },
+  {
+    "address": "0x6c9A5b8e5fCeBbB30952359F5CCd36D66daA35c0",
+    "earnings": "0x02aa2edaf8d379f97f",
+    "reasons": ""
+  },
+  {
+    "address": "0xCa2acE8f320268E3bC457670048a30700914F489",
+    "earnings": "0x60f73ae56e81964426",
+    "reasons": ""
+  },
+  {
+    "address": "0x5f50722b88f3Eff9cbde2D67e38963DF4c847447",
+    "earnings": "0x1b4420a3cf9dd64c76",
+    "reasons": ""
+  },
+  {
+    "address": "0xf3bcd2e7cc95Ac1C5824Da5e372b9d6259DcF75C",
+    "earnings": "0x0960675c954bc15d85ec",
+    "reasons": ""
+  },
+  {
+    "address": "0x965AdFCFd89e5D4f38454206E0C56738946bE250",
+    "earnings": "0x4dc4dd287c37473881",
+    "reasons": ""
+  },
+  {
+    "address": "0x4DC3D3b3eDa67b4fa3866dE88a4E354c072d3Ea8",
+    "earnings": "0x0328d11999c888cd3b",
+    "reasons": ""
+  },
+  {
+    "address": "0xb8D5Ab4E6adE0A6f9396065956C20139237F0B39",
+    "earnings": "0x1b585164696ac7ba27",
+    "reasons": ""
+  },
+  {
+    "address": "0x9F4a24BeeA433D275f8ef25f19858Ea68291A0C6",
+    "earnings": "0x0731065b9ac76c1886",
+    "reasons": ""
+  },
+  {
+    "address": "0x5EAE6c797ac561cb68Cd7a972963069122138157",
+    "earnings": "0xd0d3cd35907290b7",
+    "reasons": ""
+  },
+  {
+    "address": "0x5934Ea5133fF1Dc5949F55BA372bbA3cC94BD37C",
+    "earnings": "0x453104f96fedf846e6",
+    "reasons": ""
+  },
+  {
+    "address": "0x5C8AeA0980bB2e0105D5C223D86C880B00e4FadD",
+    "earnings": "0x27e87390c44075d3f3",
+    "reasons": ""
+  },
+  {
+    "address": "0x197ea89db3C1AC822D66AfE0FB53c2D0Edd3A0f0",
+    "earnings": "0x04571c007a443a91c4",
+    "reasons": ""
+  },
+  {
+    "address": "0x4D5a52e8cFBF2d73515F6280042ef7faA2674120",
+    "earnings": "0x0713e48ad4e60dcf95",
+    "reasons": ""
+  },
+  {
+    "address": "0x51855915d5103008077DcD04805487e8b15155a8",
+    "earnings": "0x6998dd309780b01e",
+    "reasons": ""
+  },
+  {
+    "address": "0x8Aa0B761AEab28c52a222BBab44253a115dB361B",
+    "earnings": "0xd17e231969f79887",
+    "reasons": ""
+  },
+  {
+    "address": "0x5805641E589CF538004a0ccFC31a57Ac1ba2cb02",
+    "earnings": "0x68014669ee7d4240db",
+    "reasons": ""
+  },
+  {
+    "address": "0x99Cf484640b87AC7CA5930EA35642654391C764C",
+    "earnings": "0xbef9d00e44d7c19d5f",
+    "reasons": ""
+  },
+  {
+    "address": "0x72C2410F787F280d0e26390C197b5152b4DE4604",
+    "earnings": "0x0262110e6085ee9362",
+    "reasons": ""
+  },
+  {
+    "address": "0xf44d9B36C2d8434dDC6bE44E04d8728621646694",
+    "earnings": "0x19e2177266d97f99",
+    "reasons": ""
+  },
+  {
+    "address": "0x775e01af38D46d5Bbf907fcAD439F995BA56E62C",
+    "earnings": "0x122988af500edf3247",
+    "reasons": ""
+  },
+  {
+    "address": "0xDF5BA2Bee3fFbBe6Bb38106afBFa6191b9F2E079",
+    "earnings": "0x02afc2b91569e25c0d",
+    "reasons": ""
+  },
+  {
+    "address": "0xBB2031317a6D329D0C92D7A58b2c6930B5251269",
+    "earnings": "0x0ae918cc0ec56abf52",
+    "reasons": ""
+  },
+  {
+    "address": "0xF06022C428026612E1E397BE75052f409A37B99a",
+    "earnings": "0x18a4f6fd13c0a4cd91",
+    "reasons": ""
+  },
+  {
+    "address": "0xe14Dc9fe391f7fA9E4B4CfF2cb984111206Da4FD",
+    "earnings": "0x02b8323e3646ff75ca",
+    "reasons": ""
+  },
+  {
+    "address": "0x6f49F81EA163C03A26B6945377C1119dC15f41a7",
+    "earnings": "0x0da10e87b9da9b7e5c",
+    "reasons": ""
+  },
+  {
+    "address": "0x3214e141bdAe08Be1f382A885cf3d2a448A5E780",
+    "earnings": "0x105052d388ef1572b2",
+    "reasons": ""
+  },
+  {
+    "address": "0xd5b36e202B37C79a2f645f79B20FE73CD7d8Fccb",
+    "earnings": "0x20bd40e516dcf4a93c",
+    "reasons": ""
+  },
+  {
+    "address": "0x26f3AA57692BB523E5DC5cAca0FF331Da30A77Ef",
+    "earnings": "0x16ee2237a5efc9ebd8",
+    "reasons": ""
+  },
+  {
+    "address": "0x182C0E098216C117A4Ba52d0D1F7c6c0F1af7D92",
+    "earnings": "0x0b481090bb42516ab9",
+    "reasons": ""
+  },
+  {
+    "address": "0xE9db81A85fDc1f28239bdcA8D3054ad39F44A8D5",
+    "earnings": "0x056b709ee3c8131fd6",
+    "reasons": ""
+  },
+  {
+    "address": "0xe77adD5BbEeB236FEae51738a480795400C5aBca",
+    "earnings": "0x0334cc91213b1fe704",
+    "reasons": ""
+  },
+  {
+    "address": "0xc09a6b7a56609dBdE7B4CCeD1aE9621344CB7004",
+    "earnings": "0x025f20bc7ebe7bd613",
+    "reasons": ""
+  },
+  {
+    "address": "0x5474D722FEe60038bb760e8278E448acEf81Db1E",
+    "earnings": "0x8a5c8e2d3aa50000",
+    "reasons": ""
+  },
+  {
+    "address": "0x1099ef4783aE43CB26E86327d15E0AA812B87912",
+    "earnings": "0x15c69dab3ccec120e6",
+    "reasons": ""
+  },
+  {
+    "address": "0xb1062489871245336a610A473c9cEA137D7c9477",
+    "earnings": "0x068d89284cbc2cc5d3",
+    "reasons": ""
+  },
+  {
+    "address": "0x861c13d0a042C795Fe60eec4AD348b46B5999191",
+    "earnings": "0x06889a685efb4e10b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x73729109C20eE5E6A3B22309C2Dcd2CDac5a953E",
+    "earnings": "0x58e42e264ca3a0e52a",
+    "reasons": ""
+  },
+  {
+    "address": "0xcbDBc64a1f0e8D8d404736C0c62c01AE3a48455a",
+    "earnings": "0x094e4d4e479c95f76f",
+    "reasons": ""
+  },
+  {
+    "address": "0x99159486C0ECEdb3A1D9e00dA4f5938a2E66f193",
+    "earnings": "0x275ac9a966e609fd75",
+    "reasons": ""
+  },
+  {
+    "address": "0x8a8f55c9c9959973AF2f921740d56d7fEf26E3Cb",
+    "earnings": "0x0ae797ef2b4200affa",
+    "reasons": ""
+  },
+  {
+    "address": "0x71C93beF8b2d5cF72Fa9b572bd5D4680775Ce7D6",
+    "earnings": "0x182088c52ab68e06c0",
+    "reasons": ""
+  },
+  {
+    "address": "0x421d95f3289156490E71E0327791c46EA7C2EE73",
+    "earnings": "0x03d9aab6f9c218c154",
+    "reasons": ""
+  },
+  {
+    "address": "0x1b20813C0d22F0d366aa93b5567A048035487AF7",
+    "earnings": "0x1ca6c2225084f4a02f",
+    "reasons": ""
+  },
+  {
+    "address": "0x866DA0e65F1FA5c30E227f70377C15Cd6d5e6f9C",
+    "earnings": "0x04a658d7cf13aeb712",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A927F06382412a979f323b66A510162af09D532",
+    "earnings": "0x10b414e7ebd3814f11",
+    "reasons": ""
+  },
+  {
+    "address": "0x032eD5428E4Bb86c77cA2B9032fAA2eA3E5B195b",
+    "earnings": "0x01a6570dcf3036dd99",
+    "reasons": ""
+  },
+  {
+    "address": "0x671F232241037501fBf1f435D5e96a7932B9f72f",
+    "earnings": "0xb6dce8eff533e1bd",
+    "reasons": ""
+  },
+  {
+    "address": "0x39Df70c936940Ec5e631BBe96FF49B0315D32bB3",
+    "earnings": "0xbf6b781954045bfb0d",
+    "reasons": ""
+  },
+  {
+    "address": "0x9C3cdd65c26Ae73908306698fE04CA13815927b9",
+    "earnings": "0x01038f5ee52d5e9b",
+    "reasons": ""
+  },
+  {
+    "address": "0x3033b16B6044609cad0E089fcda9b508507FeD84",
+    "earnings": "0x37bdc757c63a01ec69",
+    "reasons": ""
+  },
+  {
+    "address": "0x3D0Db72EB8d80BC016698f1BC19AEa2443F75252",
+    "earnings": "0xa1b158935ad1d716",
+    "reasons": ""
+  },
+  {
+    "address": "0x9e59b53aC0e0cCF795569a3451697E9D5A12604B",
+    "earnings": "0x98fee6701ea1563a07",
+    "reasons": ""
+  },
+  {
+    "address": "0x5adaF084b0e3e2E82d001145d57d6e370af42D0f",
+    "earnings": "0x1d411db7c882b83e13",
+    "reasons": ""
+  },
+  {
+    "address": "0xebd7EC3A71fC47b715B06D76436953D092e898f1",
+    "earnings": "0x239e4de06720a15312",
+    "reasons": ""
+  },
+  {
+    "address": "0xd2BbA38F8311832Dc419516c3ee42c48cB70B399",
+    "earnings": "0x8cb58d64d109c1",
+    "reasons": ""
+  },
+  {
+    "address": "0x2aC79Ad1bD5DcAd477ef918be2985c0987E0B483",
+    "earnings": "0x13966a40edeb4497eb",
+    "reasons": ""
+  },
+  {
+    "address": "0x0E37AC2Ba495E6b362171a11BfA2dF5C4631CDB0",
+    "earnings": "0x0747bcc9cec225c2a7",
+    "reasons": ""
+  },
+  {
+    "address": "0x1776bc2BF26F4fC5b725141982E5CF31649ff022",
+    "earnings": "0x4bf577b936466be76b",
+    "reasons": ""
+  },
+  {
+    "address": "0xa92B00A0d6bB17Dd04228d18D91065F756f3648B",
+    "earnings": "0x497a3440cd76d06102",
+    "reasons": ""
+  },
+  {
+    "address": "0x17Ffd35387521CE2021B66e7c91b3e5B5797c722",
+    "earnings": "0x1723b571186c5a4afa",
+    "reasons": ""
+  },
+  {
+    "address": "0xB3BBFfb97114D79DF7Bd45808078A56053e34586",
+    "earnings": "0x2ef0a983904ec012cf",
+    "reasons": ""
+  },
+  {
+    "address": "0xc7748db7338cC106AeB041B59965D0101eDa8636",
+    "earnings": "0x0a6cd7744a5f2c95941b",
+    "reasons": ""
+  },
+  {
+    "address": "0x86E763974D83e4b4510734eab67598B396Ab6d12",
+    "earnings": "0x01ed7cd4e72ad3fb4d",
+    "reasons": ""
+  },
+  {
+    "address": "0xD67e2e25bb3F097418921E1088E9d61701C3679C",
+    "earnings": "0x0845bbef5ede8d7274",
+    "reasons": ""
+  },
+  {
+    "address": "0x3C7902C1C927CeadB56A8d3fb568D77F1e12EdB8",
+    "earnings": "0x0bc408c0ec7ca3ec80f0",
+    "reasons": ""
+  },
+  {
+    "address": "0x1F41C4F7B848646a4F00238b61a176Fc68dFe847",
+    "earnings": "0x5c6618cf6cdd8433d2",
+    "reasons": ""
+  },
+  {
+    "address": "0xEEeDb4C12618Bf9e5Ef8E37dA2CB47c49ba63FE6",
+    "earnings": "0x26c97ead79016ca6af",
+    "reasons": ""
+  },
+  {
+    "address": "0x3d91291Ab0Abea4f11Ca53Ff32195CfAEDA4E042",
+    "earnings": "0x2b9f821ceac7f1927a",
+    "reasons": ""
+  },
+  {
+    "address": "0xE7736944eb074BD0708a6D02F4A4961C032c072D",
+    "earnings": "0x1b3a9b1616de3d098b",
+    "reasons": ""
+  },
+  {
+    "address": "0x8eB354f1CBb0AB7ef0D038883b4c1065e008453F",
+    "earnings": "0x6939442351afdc896f",
+    "reasons": ""
+  },
+  {
+    "address": "0x3FDaD4D08d11F3Acc3D654Ff204631ffeBE8a946",
+    "earnings": "0x015bfd6e01230b8f33",
+    "reasons": ""
+  },
+  {
+    "address": "0x8Ff8f2aAfDE12CB714D5cA52496B05BfCdf207D7",
+    "earnings": "0x0273ce42096de0e666",
+    "reasons": ""
+  },
+  {
+    "address": "0xf8912B661c010C73051F5bd92fdDf1f135b84c91",
+    "earnings": "0x0120d83d3d88df2b49",
+    "reasons": ""
+  },
+  {
+    "address": "0x6C00419c38BE77658bF3B382C833E56677d5D56b",
+    "earnings": "0x1055b1e2843a03341a",
+    "reasons": ""
+  },
+  {
+    "address": "0x1e059c2cc43Ac48C8547d8D330774B6EE723ff95",
+    "earnings": "0x3b2c86295c3c2d30e3",
+    "reasons": ""
+  },
+  {
+    "address": "0x5087371Ad491f5e3707417AecB3547EC9c44AE38",
+    "earnings": "0x056afd7a8c9e6aa96f",
+    "reasons": ""
+  },
+  {
+    "address": "0x61a576EeF1405140571E2D7d42d2A387aB8e1872",
+    "earnings": "0x31ce9d6002ef56db08",
+    "reasons": ""
+  },
+  {
+    "address": "0xcd1A135933B5c2C1479A125fEe6725DF4a97D192",
+    "earnings": "0x022c6017b1d0757d46",
+    "reasons": ""
+  },
+  {
+    "address": "0x980C94D6610815e236B01740d099a6630f53c7A7",
+    "earnings": "0xa9e0d8b24b9d15179a",
+    "reasons": ""
+  },
+  {
+    "address": "0x2891A7A312A721B81c1Eb1285619ef653C04FadB",
+    "earnings": "0x011edbe64ced64a197",
+    "reasons": ""
+  },
+  {
+    "address": "0x6b6cA48DA27304eeEb1D15d355D948f68b852733",
+    "earnings": "0x0da143e28f31e1aa9d",
+    "reasons": ""
+  },
+  {
+    "address": "0xbA33A679EfC6597Ae37d4CaA3E0089649b9cac7A",
+    "earnings": "0x1c97fd0dd5a506614e",
+    "reasons": ""
+  },
+  {
+    "address": "0x0e5e2791919E023839a6Ea6944f4F3786f458D33",
+    "earnings": "0x056bc61d8244fecd15",
+    "reasons": ""
+  },
+  {
+    "address": "0x6d04B3f82a0B42A09F355fEA3bCCCE3C819Ad5B5",
+    "earnings": "0xef51286fa22a336f73",
+    "reasons": ""
+  },
+  {
+    "address": "0x0E27508571D724DFBf63672aFa0253D46EF4a52c",
+    "earnings": "0x707fcc70f821774ece",
+    "reasons": ""
+  },
+  {
+    "address": "0xcb21e2BD49f874B869e3bdbB02BF02c366C942e7",
+    "earnings": "0x36846da0ddd00e9aef",
+    "reasons": ""
+  },
+  {
+    "address": "0xdf5F0C59c3b3471B5Da0Aa8BCdeb7c69C7Ba3370",
+    "earnings": "0x02b7da3cb123e443bd",
+    "reasons": ""
+  },
+  {
+    "address": "0xc93e295282a21aFE69B3EebA1fbDcC57603E0186",
+    "earnings": "0x03cdb0642883a64227",
+    "reasons": ""
+  },
+  {
+    "address": "0xF9BbF650faA7b936Fd66F2d062459025dCf5f47c",
+    "earnings": "0xfee6d3a2dec5a658",
+    "reasons": ""
+  },
+  {
+    "address": "0x6A897b32996D342535791a74B8a40E75DDf2486e",
+    "earnings": "0x109313e720f58703a6",
+    "reasons": ""
+  },
+  {
+    "address": "0xEc466e8c7c1978F8f76b970aA488b44E70034807",
+    "earnings": "0x0ba7efd6a36715df36",
+    "reasons": ""
+  },
+  {
+    "address": "0xeb3A844C59bcd99C73072D9974BD6f2D8028b6A0",
+    "earnings": "0x098ad07b04cc5d4594",
+    "reasons": ""
+  },
+  {
+    "address": "0xaC7a677815EcD9c0AD2B13686F7ab54ff7485762",
+    "earnings": "0x15293c3f80a7784283",
+    "reasons": ""
+  },
+  {
+    "address": "0x5c054672839C653DAb8cbde3F569AaFbAD52D3fa",
+    "earnings": "0x0470a3dd37880724",
+    "reasons": ""
+  },
+  {
+    "address": "0x6c7286c5AB525ccD92c134c0dCDfDdfcA018B048",
+    "earnings": "0x01aa8eb1231f3565f5b2",
+    "reasons": ""
+  },
+  {
+    "address": "0x5e2517Adf43B706701A481D67d4C4F497947B615",
+    "earnings": "0x11656fb1b7b286493c",
+    "reasons": ""
+  },
+  {
+    "address": "0x53D5cAF5521f4C54F809DF2c7405DEAe95028116",
+    "earnings": "0xc43cbaba0762beaa27",
+    "reasons": ""
+  },
+  {
+    "address": "0xc52B352f98ca9305dfe5D6b02940f5dD8480B000",
+    "earnings": "0x20ba8225ece716daaa",
+    "reasons": ""
+  },
+  {
+    "address": "0xF0E94b5cc8dE1FA42560542ed371921440eCE869",
+    "earnings": "0x0ae5d8e8ba277a7de8",
+    "reasons": ""
+  },
+  {
+    "address": "0xb11C10Ba8d2d9bc81148696A70B03df20DbED9b1",
+    "earnings": "0x03a87f34746a68d7ae",
+    "reasons": ""
+  },
+  {
+    "address": "0x4b2161e13d3a8E3F4A13f9Fcbe31DA0C7a19998B",
+    "earnings": "0x1a2e46bbbe23efe1ab",
+    "reasons": ""
+  },
+  {
+    "address": "0x85ffBeCe966746C512B2C8e21C938C37Fb50f335",
+    "earnings": "0x01244ac4574185149a",
+    "reasons": ""
+  },
+  {
+    "address": "0x6292DDa8A73837459CeD293540668ddc6BAE1A12",
+    "earnings": "0x0293255f69f909",
+    "reasons": ""
+  },
+  {
+    "address": "0xc7eD7Bf2A126983DFde425126b03693D40477Ba7",
+    "earnings": "0xc1096aade4e49576a1",
+    "reasons": ""
+  },
+  {
+    "address": "0x75475b536279Cc28fdD09891D1c97eC7fb16d8B3",
+    "earnings": "0x570ef35ec8c287abd9",
+    "reasons": ""
+  },
+  {
+    "address": "0x0c5cE143B093426BF200444787E9Ee3382fDa4f2",
+    "earnings": "0x0dab065db8dcb027fe",
+    "reasons": ""
+  },
+  {
+    "address": "0x7C24A38e161c641cf34525E35087Fd4c538cbdA2",
+    "earnings": "0x01af5494f96521b0ea",
+    "reasons": ""
+  },
+  {
+    "address": "0xF03C8c6A6aE736AB7089ffe1BbFF5428ec44d91C",
+    "earnings": "0x019194c7ea96466a16ed",
+    "reasons": ""
+  },
+  {
+    "address": "0xB4d25967D8A1de529466f814B5E21016C3399450",
+    "earnings": "0x036080867665837a8e",
+    "reasons": ""
+  },
+  {
+    "address": "0x82948a9f0C927bbe1547eaFa91c0c0EB0673cBf7",
+    "earnings": "0x082aad16d2955f3350",
+    "reasons": ""
+  },
+  {
+    "address": "0x853Ff26336176c1a65BA88432eD1DB47D41785d8",
+    "earnings": "0x0109550155f0e78b8d55",
+    "reasons": ""
+  },
+  {
+    "address": "0x10A1Cb1C9489b39dd5bc65D60618409EfAf0e095",
+    "earnings": "0x17ce403f9e6d88b9e5",
+    "reasons": ""
+  },
+  {
+    "address": "0xe5F008411335787f4D92213a1C3d854B08dF3E4F",
+    "earnings": "0x0ade9ee3b802135b1d",
+    "reasons": ""
+  },
+  {
+    "address": "0x6b9C944DEB574Ed6f2A5b6B3e6c25165535b71DA",
+    "earnings": "0x7a779fbb1640aaa281",
+    "reasons": ""
+  },
+  {
+    "address": "0xdfdafD8B358c48b7cdA2b15AdB2Fb240BC5b02C9",
+    "earnings": "0x06a70500c414d3b6f8",
+    "reasons": ""
+  },
+  {
+    "address": "0xB93a876831344358F9446b8DB1aa6126C4100f01",
+    "earnings": "0x085d81407f408329d3",
+    "reasons": ""
+  },
+  {
+    "address": "0x0f16175dc2eb10F0d1eD5174D4A3889263922BbE",
+    "earnings": "0xc52fb76553d634c7",
+    "reasons": ""
+  },
+  {
+    "address": "0x4190E7bD6Ce58aA54648126947D69e687C5F2423",
+    "earnings": "0x973ada3ccccf9b86ef",
+    "reasons": ""
+  },
+  {
+    "address": "0xacbdc533F5B22C969A28CCEB2E9858EEE2b8e691",
+    "earnings": "0x0697a16fa76a7f8336",
+    "reasons": ""
+  },
+  {
+    "address": "0xC89425d024B81404e86ad96d88BfEd8528B3137f",
+    "earnings": "0xb1a4df852f969d86",
+    "reasons": ""
+  },
+  {
+    "address": "0x8f36Dc5348BF133941F07d4ea682354cA273D775",
+    "earnings": "0x01d0ba830aa2fa991ae3",
+    "reasons": ""
+  },
+  {
+    "address": "0x4f3463E8b293a4Dc27A1215314C99e9610c4c1C5",
+    "earnings": "0x1bd32575f9ab234785",
+    "reasons": ""
+  },
+  {
+    "address": "0xc7B009237cB09690A4C887e9d4dc233f6F1e9e83",
+    "earnings": "0x3c02ea84a3daba7e76",
+    "reasons": ""
+  },
+  {
+    "address": "0x097789450B7bDb518dA2f931a24482c10b7bad85",
+    "earnings": "0x034c4ac86503f2bd22",
+    "reasons": ""
+  },
+  {
+    "address": "0xd514Ce1A62cAd2d96A05e10394e69aB01583f0CE",
+    "earnings": "0x50801e432c0558f9",
+    "reasons": ""
+  },
+  {
+    "address": "0x6Cf9D1A71C77e768fa6710E48C94208aBf439e9e",
+    "earnings": "0x183608bc710c33be52",
+    "reasons": ""
+  },
+  {
+    "address": "0x651C636fC2adbB79fB2c8FBb1Cf3A6F76ff1fDd9",
+    "earnings": "0xa6c2e204d1ea87ed",
+    "reasons": ""
+  },
+  {
+    "address": "0xfD25508e72C88c096C1195b54397A4F948C36451",
+    "earnings": "0x1da0a5a51851226d2b",
+    "reasons": ""
+  },
+  {
+    "address": "0xB5334AfA33da85BEE53E8437CB0Ba0F9431271F0",
+    "earnings": "0x9bdf53af30934ccc",
+    "reasons": ""
+  },
+  {
+    "address": "0x887bE82d35f1C9C2C4D71b63AA827BBfD66d7D6e",
+    "earnings": "0x051cd3be2e9df0a7af03",
+    "reasons": ""
+  },
+  {
+    "address": "0x96C58815D86573FE1EC216f12d779146480F5f69",
+    "earnings": "0x704eae209a5bf41129",
+    "reasons": ""
+  },
+  {
+    "address": "0x4F0EC2e61CE08517Fa64aC1D41fc7677f4c3b8EC",
+    "earnings": "0x03ed89c3fd31da5a4e",
+    "reasons": ""
+  },
+  {
+    "address": "0x55C4A5824888A995CD1e0c8f27d19637b723aB64",
+    "earnings": "0x0b927789291c0eeab9",
+    "reasons": ""
+  },
+  {
+    "address": "0x0E404542823Cef31961756e5639Ba3eab8C72343",
+    "earnings": "0x28385d076af220fddf",
+    "reasons": ""
+  },
+  {
+    "address": "0x0C67e720E0d94d48966808537Cf846b0F050502f",
+    "earnings": "0x0d945ccb072742bd14",
+    "reasons": ""
+  },
+  {
+    "address": "0x890e2cbAfcdCaEd34D4AdDbD7D6639e167e00791",
+    "earnings": "0x01a318fb82fc63117b",
+    "reasons": ""
+  },
+  {
+    "address": "0x65A67DCA6CcC484f5eb048D8fE3150a0f73A0200",
+    "earnings": "0x17713b021fa1e51c40",
+    "reasons": ""
+  },
+  {
+    "address": "0x29199E981e293c9FB4134586094DE3C65Cf6DD19",
+    "earnings": "0x1df57a5df65fb789",
+    "reasons": ""
+  },
+  {
+    "address": "0xF47Df745B51dc039D48A014CeC96187167f256E5",
+    "earnings": "0x073eb80756ca965ecf",
+    "reasons": ""
+  },
+  {
+    "address": "0x5Cf57fd8c76c85fd1cB3826D8589AD2D84f52835",
+    "earnings": "0x022c1e06714adb57f2",
+    "reasons": ""
+  },
+  {
+    "address": "0x6fBB59e7D3f2C6bdDCC3dE7eea491971D05975fB",
+    "earnings": "0x48364123a23bb5dd40",
+    "reasons": ""
+  },
+  {
+    "address": "0xF869690e001bB48861AdBb6D37cB37b7bd34B81d",
+    "earnings": "0x3bc89980be53cc31",
+    "reasons": ""
+  },
+  {
+    "address": "0xE1e6E97505f4E560836dDC9b0Fa35BD7b4eD0Cef",
+    "earnings": "0x05f8b82502507ea2b5",
+    "reasons": ""
+  },
+  {
+    "address": "0x22Ae05D7a3E6e823B6b47fB092e9DF87C41f0Bc2",
+    "earnings": "0x0576e0d1eb7dc79285",
+    "reasons": ""
+  },
+  {
+    "address": "0x4cC72219fc8aEF162FC0c255D9B9C3Ff93B10882",
+    "earnings": "0x16279215682998b2fe",
+    "reasons": ""
+  },
+  {
+    "address": "0x73c22319a12253bf9b89B82F417020c7Bb78502e",
+    "earnings": "0x026089593aee4815a1",
+    "reasons": ""
+  },
+  {
+    "address": "0xE2976f612E6220643CF23f02735e7c7b946da315",
+    "earnings": "0x0345b2dd474ffe96ab",
+    "reasons": ""
+  },
+  {
+    "address": "0xD04436E7a914667FF0b389eF320F23D027045Df7",
+    "earnings": "0x49e834cb2be656e113",
+    "reasons": ""
+  },
+  {
+    "address": "0x8c18b21e6517049605B4F115Ce6848B0079986AA",
+    "earnings": "0x22f75334eb3f772889",
+    "reasons": ""
+  },
+  {
+    "address": "0xd36d6C7e44C0c4479DD7E48097Fa897E35c5Eddb",
+    "earnings": "0x04083d9651493c3b5a",
+    "reasons": ""
+  },
+  {
+    "address": "0x668badF85F6d8611d90C49aE79d8d90601C2fd9E",
+    "earnings": "0x078d06374fae692a38",
+    "reasons": ""
+  },
+  {
+    "address": "0x094e59706D52e2F95a57e7D399871522a4037923",
+    "earnings": "0x0aec4dfaf1c6c28773",
+    "reasons": ""
+  },
+  {
+    "address": "0xd5357ae429C125426591d46ddC20251Ecd1AD9f8",
+    "earnings": "0x04a395f74642f00463",
+    "reasons": ""
+  },
+  {
+    "address": "0x6cC69E7BC5d8D8ea68758C70d86e90F99fc10054",
+    "earnings": "0x105420eed10b803d50",
+    "reasons": ""
+  },
+  {
+    "address": "0xA7A7E108a88E137fF754306A9501e65c980A65E6",
+    "earnings": "0x02bb06e13607a75b0f",
+    "reasons": ""
+  },
+  {
+    "address": "0x0b968D4a39D81634Eb30F1e41eb043A866A5E64e",
+    "earnings": "0x3c085648957362f681",
+    "reasons": ""
+  },
+  {
+    "address": "0x82D01595618B577626eE39e756D22CfDA2468CF9",
+    "earnings": "0x02b85eee934b6dc31c",
+    "reasons": ""
+  },
+  {
+    "address": "0x20695042aD37fD25c834c708f21eEc3104F74525",
+    "earnings": "0x08fdea7e2447bf1986",
+    "reasons": ""
+  },
+  {
+    "address": "0xa7f0FDee39e4Fb5fC2cB9Dfc382FC725908207c7",
+    "earnings": "0xc4dd2bcaf0431a",
+    "reasons": ""
+  },
+  {
+    "address": "0x9C8fA4a03E8501cfa3729759238ab2f1Bb176DFe",
+    "earnings": "0x01926a43b6cdc1111c",
+    "reasons": ""
+  },
+  {
+    "address": "0xd1ab43019888ED678e14ad0bC9C476f55047535D",
+    "earnings": "0x1c4e2d97d07debedfe",
+    "reasons": ""
+  },
+  {
+    "address": "0x2e75B8592cEECf61E11C750b6e69395aA5953Cb5",
+    "earnings": "0x16e8102b6a8d69f0b5",
+    "reasons": ""
+  },
+  {
+    "address": "0x0379FA8Ec81CbFa7882C7583E071E38afac01A4A",
+    "earnings": "0x0ab83a70f520f885c3",
+    "reasons": ""
+  },
+  {
+    "address": "0x5277FAca0175b711f3753275025a1363a59e361C",
+    "earnings": "0x996c40b6141f3452",
+    "reasons": ""
+  },
+  {
+    "address": "0x05e303fbBdCBd0019132E078c4abE41F3396F88c",
+    "earnings": "0x041340c72cf085a7e2",
+    "reasons": ""
+  },
+  {
+    "address": "0x05dD49D5E79DacEA849790c8857F9dbd8E16e82c",
+    "earnings": "0x01412000457d356a81",
+    "reasons": ""
+  },
+  {
+    "address": "0x37633c9F778c44e852914c7056cBBBF75323Dfd6",
+    "earnings": "0x0a8d8148e9598ac5d2",
+    "reasons": ""
+  },
+  {
+    "address": "0xeD6B548d08e783A45E6E6b37eD05559e2581Ffc5",
+    "earnings": "0x33e0d1a211f2e6da09",
+    "reasons": ""
+  },
+  {
+    "address": "0x4B15855EcfFaf842A5dd6c383c83132EE363aC53",
+    "earnings": "0x06e8f703ad22891ebd",
+    "reasons": ""
+  },
+  {
+    "address": "0xFaD1AAFC4c7B217d4D16Faf9Cb4Da3a3c2Aa980B",
+    "earnings": "0x458eebb2a0912854",
+    "reasons": ""
+  },
+  {
+    "address": "0x496D3B05fa63aee65Da335F6750c4B13eA3A2eE9",
+    "earnings": "0x049b1e4dbdb1101bfa",
+    "reasons": ""
+  },
+  {
+    "address": "0x40F3109e2EaE39bF6877147f59AFed24B6604fa4",
+    "earnings": "0x01783a9578dd2617fb",
+    "reasons": ""
+  },
+  {
+    "address": "0xA94dAFCf506ae2d581757Ff78ED75cee393d7a7f",
+    "earnings": "0x01e7f2e49bb21527da",
+    "reasons": ""
+  },
+  {
+    "address": "0x60DCA86152675561411D35042b18186e400060AB",
+    "earnings": "0x017daa305d39a71fea",
+    "reasons": ""
+  },
+  {
+    "address": "0x0fb122228d710Ea0d49d914ed702660663c6b81f",
+    "earnings": "0x02ba599bc560f08dc2",
+    "reasons": ""
+  },
+  {
+    "address": "0x60b2dC238f9EE37eb5A7549842FEbeF8233748bA",
+    "earnings": "0x0155ebaccba0d0b7d2",
+    "reasons": ""
+  },
+  {
+    "address": "0xbD6B1C0B3184A5c1B68aFa7571909A4E69096d3A",
+    "earnings": "0x01ea0179b07954b87c4c",
+    "reasons": ""
+  },
+  {
+    "address": "0x86dE19cA0046A26D389e0622f786a93539a1A1C8",
+    "earnings": "0x32da3a30a8a335da45",
+    "reasons": ""
+  },
+  {
+    "address": "0x251E8460b52A26b16Ccbe2ACc1fB4C7Cb1382B1D",
+    "earnings": "0x36a87c13f40480d231",
+    "reasons": ""
+  },
+  {
+    "address": "0x5d327e23aC8FB619105eECaF50f8E5fD82B32b6D",
+    "earnings": "0x0237d44c7ad9303b4d71",
+    "reasons": ""
+  },
+  {
+    "address": "0x679D1C9f327257c4cec9eBC1c7c750728351e989",
+    "earnings": "0x0107ae42178f77e60b",
+    "reasons": ""
+  },
+  {
+    "address": "0xd7806b723de8D2875d6EB3A58cA0fabd4092D5E8",
+    "earnings": "0x10485f84eebef26fbd",
+    "reasons": ""
+  },
+  {
+    "address": "0x213A8b4A4719D7C74377Bb2a582e7Aa1c5d4d6e4",
+    "earnings": "0x1d5aa10f408653ec",
+    "reasons": ""
+  },
+  {
+    "address": "0xE37808463821D91d6Ac4762037Dc4cE7f73B222d",
+    "earnings": "0x878de449ca0898c8f6",
+    "reasons": ""
+  },
+  {
+    "address": "0xe12D731750E222eC53b001E00d978901B134CFC9",
+    "earnings": "0x20b3422763fcb5c06e",
+    "reasons": ""
+  },
+  {
+    "address": "0x57C1D6f83eaE3E89e906D55319A1ceB4A2c6e4e1",
+    "earnings": "0x1ae90368c0d81e24",
+    "reasons": ""
+  },
+  {
+    "address": "0x7eF506214e327e41060B3f01d0ffb90288372CE7",
+    "earnings": "0x0a99047d0348d867bfa0",
+    "reasons": ""
+  },
+  {
+    "address": "0x563fC53fc6aD2a498d24d0010787c1deE2Db5F6e",
+    "earnings": "0x0e80431b99a3b7586b",
+    "reasons": ""
+  },
+  {
+    "address": "0x3a499078eA64F53297572573b5314DA3ebDf6c7d",
+    "earnings": "0x90b5c272c6b5c8ee",
+    "reasons": ""
+  },
+  {
+    "address": "0x916AC9726defDdA1d05b936728Be962510E803C7",
+    "earnings": "0x021818bfc971987443",
+    "reasons": ""
+  },
+  {
+    "address": "0x1bDb7606Fc0008C99DCB2784C41Af11fE42E07Ba",
+    "earnings": "0x056a07ff38ba82e203",
+    "reasons": ""
+  },
+  {
+    "address": "0xCd4E8E18B9a27FadAD81ACB2a1C968c7a79C7615",
+    "earnings": "0x5fe53319e7b40213",
+    "reasons": ""
+  },
+  {
+    "address": "0x48BF525CC8b6156fF7D3662d3eeb196ed1A9ba44",
+    "earnings": "0x3bc8a416e701d2d29b",
+    "reasons": ""
+  },
+  {
+    "address": "0xa0F622C6172F95d03815D01A6650B7502b296d94",
+    "earnings": "0xefd19c4df4640d97",
+    "reasons": ""
+  },
+  {
+    "address": "0x97d2a7Cd927eC9ECED64C092EB1B443Cde824Aea",
+    "earnings": "0x5e87a37c15af17cf",
+    "reasons": ""
+  },
+  {
+    "address": "0x9CDb7121F89e8135AeAF5e2bc8006233fe23f426",
+    "earnings": "0x12d9036e4397a460bb",
+    "reasons": ""
+  },
+  {
+    "address": "0xEDd30dd9afAb86D55dAB764bA1d34D43426A8e83",
+    "earnings": "0x0eb33471b229166fb3",
+    "reasons": ""
+  },
+  {
+    "address": "0xBfb12c30a347d06778Fe9DD582C33c6deDB373ef",
+    "earnings": "0x015bdc74693d59e302",
+    "reasons": ""
+  },
+  {
+    "address": "0xFf41C3DaD5D6bdBF75B15f9E2f7c23C072a9455c",
+    "earnings": "0x01fcccd4822344a61b13",
+    "reasons": ""
+  },
+  {
+    "address": "0xd2bc5cE0f39Acbbf32e77857C2Ce3587F28176E9",
+    "earnings": "0x056e35937dda74b3ce",
+    "reasons": ""
+  },
+  {
+    "address": "0xf0843eB5F856aE89c4E3C3Ae5F3149f616EE568C",
+    "earnings": "0x0125429fa05db8d27c",
+    "reasons": ""
+  },
+  {
+    "address": "0x4455DECdAd10DFAf5bd5c23CE7b5B14eF9F51DeD",
+    "earnings": "0x024e311356ab5e5179",
+    "reasons": ""
+  },
+  {
+    "address": "0x55804087A70D9433Dd513E2C985b09f1CBdF509a",
+    "earnings": "0x0eab652f7b30873dc8",
+    "reasons": ""
+  },
+  {
+    "address": "0x2beD1ba5A4268b02c93c4E17A91ce152f9A6EAB0",
+    "earnings": "0x0126ed574b5d",
+    "reasons": ""
+  },
+  {
+    "address": "0x64eDad38cBbC84a8f9EeE0Ef9db1DC1c707fCa11",
+    "earnings": "0x2ca60f8a1e929c2d",
+    "reasons": ""
+  },
+  {
+    "address": "0x2C6Cc155F21bFc9fE9bA447715f4fACC3C304998",
+    "earnings": "0x7907474d6f303b18",
+    "reasons": ""
+  },
+  {
+    "address": "0xD04D001Cd8282094799621705fcf9C08F771405F",
+    "earnings": "0x09d4637178043266d5",
+    "reasons": ""
+  },
+  {
+    "address": "0xA478eeE390001072D5Cca67f3917aeFb73C8A597",
+    "earnings": "0x0bbe165b3c0b106c97",
+    "reasons": ""
+  },
+  {
+    "address": "0xe4B7e27D825beFA2a3E14Fd000d9A189287E8AE8",
+    "earnings": "0x0417044cde2abaf102",
+    "reasons": ""
+  },
+  {
+    "address": "0xe23696614faB51731d1731F5a8E105b22f8d26A6",
+    "earnings": "0x37592732afca5523",
+    "reasons": ""
+  },
+  {
+    "address": "0x6F9ca23B4EA6B01f369b19D2b268E3E18802C3C9",
+    "earnings": "0x069dbe1973f4a943b2",
+    "reasons": ""
+  },
+  {
+    "address": "0x0740A494F281aA5bf43b5CDA6D99f913E0E8b550",
+    "earnings": "0x5211df13dd2a8ab192",
+    "reasons": ""
+  },
+  {
+    "address": "0xA7D8625BF94f6782d93961C0F6806d7bDC6f5e0b",
+    "earnings": "0x08784355ad3e926c4e",
+    "reasons": ""
+  },
+  {
+    "address": "0x0C22B1f9a3d87E65e6Ee76DF872c707fbEB9e706",
+    "earnings": "0x0d0f6d9fcee749e4be",
+    "reasons": ""
+  },
+  {
+    "address": "0x40F5CCc19E2e831EaEf19820Dd8ad5Bce531CBCf",
+    "earnings": "0x2e2a01fa8d30b95c59",
+    "reasons": ""
+  },
+  {
+    "address": "0xEef125300A1e549c07BD340dE02ab70647Cb8085",
+    "earnings": "0x0b4d872e5f2db812c8",
+    "reasons": ""
+  },
+  {
+    "address": "0x5b38a4d8AAed4d2C71a192AE45EA899C282dbc06",
+    "earnings": "0x08322f045044369c69",
+    "reasons": ""
+  },
+  {
+    "address": "0x300da06AcA0FbC160eb724C50b033eF2d36EAa95",
+    "earnings": "0xd3e61a10229795e1",
+    "reasons": ""
+  },
+  {
+    "address": "0x84Ce291218b39eB5ff6837d358d71046477F23D6",
+    "earnings": "0x0da299ce2ad5b191d5",
+    "reasons": ""
+  },
+  {
+    "address": "0x9C3Da668A27f58A60d937447E0A539b48321F04d",
+    "earnings": "0x057ad217bb5c3c8604",
+    "reasons": ""
+  },
+  {
+    "address": "0x7e0416f87520e434c6F23Cbd9b88636828b7966a",
+    "earnings": "0x51e9fa2041e12e0051",
+    "reasons": ""
+  },
+  {
+    "address": "0xC49db844fD8dCa009787f26EDbEa50D8F8B983cB",
+    "earnings": "0x08468c4b5c47a65cc9",
+    "reasons": ""
+  },
+  {
+    "address": "0xE1A960d10CF4C2F43C4cf98De240D926f6b84A03",
+    "earnings": "0x87b2b4cb83edae9eda",
+    "reasons": ""
+  },
+  {
+    "address": "0x92Dd488881636c9680F647C8722E1A93BDa013a7",
+    "earnings": "0x019b9766883f707c8e",
+    "reasons": ""
+  },
+  {
+    "address": "0x335C3Fbb274e187acBEE13447d4762339fDbEa58",
+    "earnings": "0x0418a5cb4bc70fbddf",
+    "reasons": ""
+  },
+  {
+    "address": "0xa3D89eD34059109D32f107b24482c843c0cb0F9f",
+    "earnings": "0x8b470c7b84dde035",
+    "reasons": ""
+  },
+  {
+    "address": "0x8E5a02FcAa279139b0774B8AB19624dDceFE3556",
+    "earnings": "0x0dad066fc3924c06db",
+    "reasons": ""
+  },
+  {
+    "address": "0x8D4d4588864960D61Daf6A34ABFE8359a122D0bE",
+    "earnings": "0x038f58e1d83e665cd9",
+    "reasons": ""
+  },
+  {
+    "address": "0x8DD457dd4bb44b4F0Fe1c08bE746716f51D0E6E8",
+    "earnings": "0x0c6de35736c2d70d6e",
+    "reasons": ""
+  },
+  {
+    "address": "0x1b221BF7e45591620764207bA374245a81dcA6F1",
+    "earnings": "0x470531183d1afa12",
+    "reasons": ""
+  },
+  {
+    "address": "0x570d9193187cFDed8238606626d0e2CbeEB34e83",
+    "earnings": "0x04b08fa9bc869e3af6",
+    "reasons": ""
+  },
+  {
+    "address": "0x7ecc0F37914240A03C3d0e83468c156F94EC5155",
+    "earnings": "0x01178486982e2cf864",
+    "reasons": ""
+  },
+  {
+    "address": "0xDb8e5CCaA30555E1bB4EDe84Ff5b5b07B1f33d9E",
+    "earnings": "0x4723c7447727022c",
+    "reasons": ""
+  },
+  {
+    "address": "0x21D1a3455F6620C4588554025370cCcB9d24f68c",
+    "earnings": "0x60da63860f738000",
+    "reasons": ""
+  },
+  {
+    "address": "0x1d4E027C56F870C27C660C4A201735aFB142B924",
+    "earnings": "0x98b148d7f2ddf4ab",
+    "reasons": ""
+  },
+  {
+    "address": "0x49eA8B505FC131BBdF38815bdbD58C928e9923c7",
+    "earnings": "0x294ce03b83900000",
+    "reasons": ""
+  },
+  {
+    "address": "0x0E796a577BA066468d9eDAaB8b5843d72e3B447a",
+    "earnings": "0x37469fb3f91ba89a",
+    "reasons": ""
+  },
+  {
+    "address": "0x7609a4D02dBb6F892F837de404F1a0Fdd23C163f",
+    "earnings": "0x13294f96dbbb7c6c77",
+    "reasons": ""
+  },
+  {
+    "address": "0x3C8b87d7052e264fA6BC9AB157403c66Cc92b56A",
+    "earnings": "0x0a3714a081a4ab",
+    "reasons": ""
+  },
+  {
+    "address": "0x79Dd9DDbEa4CdE46616F2F9385F560aCd3647e3b",
+    "earnings": "0x035b18efb77b28",
+    "reasons": ""
+  },
+  {
+    "address": "0x968cb8EEa7815d8E832C22025adBEeb4C685460A",
+    "earnings": "0x01f32efda79dd2e3ff",
+    "reasons": ""
+  },
+  {
+    "address": "0x930a7c96162e472023dd1A652C56cdD98DBe9537",
+    "earnings": "0x8b49ade702d04c27",
+    "reasons": ""
+  },
+  {
+    "address": "0x0aB919B7206A5CE67B807EAd8CD40C67592B44f4",
+    "earnings": "0x056e23d7b3ff26b161",
+    "reasons": ""
+  },
+  {
+    "address": "0x8e999cb180678589c3bff37616aB384D8ae9058c",
+    "earnings": "0x021f4af909533ecd21be",
+    "reasons": ""
+  },
+  {
+    "address": "0x96b8f14FdbDFe34370991cDf1840ddE7B64b075d",
+    "earnings": "0x5487754e1dc418884c",
+    "reasons": ""
+  },
+  {
+    "address": "0x72760A0A42dB20FDec00B13c2B602210caD872D1",
+    "earnings": "0x0b42ce4a9c020e7544",
+    "reasons": ""
+  },
+  {
+    "address": "0x780f6E15712490DE5dD353E9646717922E753033",
+    "earnings": "0x152e9d74c57c69a1cb",
+    "reasons": ""
+  },
+  {
+    "address": "0xFFFF56DbeAE031D882a65ac41A86DdbF636D1F97",
+    "earnings": "0x03907e14fd539209",
+    "reasons": ""
+  },
+  {
+    "address": "0x67c577500F96AdA04C0352B3062f403491e91C62",
+    "earnings": "0x035b55a703162ba4",
+    "reasons": ""
+  },
+  {
+    "address": "0x7Df1a25Fa00989566bd9aE3A3cDD80d5D571e1B4",
+    "earnings": "0x8825aeeab2c7c3d291",
+    "reasons": ""
+  },
+  {
+    "address": "0x508315EF2a67AE60fa6EDEccA6a6ef761af7Fc0e",
+    "earnings": "0x03d1a7dfef9bfbdad1",
+    "reasons": ""
+  },
+  {
+    "address": "0x77277A1275FBD5DB8ba56F6d4A66e9Fe7B98d585",
+    "earnings": "0x96170774e48695d67a",
+    "reasons": ""
+  },
+  {
+    "address": "0xddD0f8c14984868191d822afb7887b06EE7494b0",
+    "earnings": "0x8b373cdb560bf404",
+    "reasons": ""
+  },
+  {
+    "address": "0x42d4013830885F457b937bF12bA4f97e15c5Eaf4",
+    "earnings": "0x148ac467f0754ab25d",
+    "reasons": ""
+  },
+  {
+    "address": "0x8aAD4b1Fd3B8E4DC3fBF43BD8bC181151cC83133",
+    "earnings": "0x04f7c806dfae4505c7",
+    "reasons": ""
+  },
+  {
+    "address": "0xc78Fb63d95E0C83fdaA9886c0cA20FE04Ec6091E",
+    "earnings": "0x02358297f469eef316",
+    "reasons": ""
+  },
+  {
+    "address": "0xc86427F72f57BA3079C21CD789ecfCd9Aa8cF345",
+    "earnings": "0x01aefe1c7c7fd82856",
+    "reasons": ""
+  },
+  {
+    "address": "0x7669405bFa7001958fFd0e9D460312B5a6cE5e95",
+    "earnings": "0x1428fa155ba3d8bb92",
+    "reasons": ""
+  },
+  {
+    "address": "0xED2d49d60a1B726910e0E2481E29Dc386d9CE1a5",
+    "earnings": "0x16e3ce8cb5e9f3203b",
+    "reasons": ""
+  },
+  {
+    "address": "0x7994A41D3574b018C76C246b75DDDFa897A62705",
+    "earnings": "0x04a379e9659c9be272",
+    "reasons": ""
+  },
+  {
+    "address": "0x69C904DcD2B1121B4e7410B8408c979d43e68d46",
+    "earnings": "0x2e382546e59c49e8db",
+    "reasons": ""
+  },
+  {
+    "address": "0x4f0272F2AaAF5926b0B14dD4fea7AaDA00FE4123",
+    "earnings": "0x539486e50f24c3dd",
+    "reasons": ""
+  },
+  {
+    "address": "0xEE2313Ad5C9A0d50B810EfA7dE1dc7A521F949Ac",
+    "earnings": "0x25dbee841fe61e7645",
+    "reasons": ""
+  },
+  {
+    "address": "0xD4653c2B53C1c76e2bf39E86fF989EC804332631",
+    "earnings": "0x10479cebee3275168d",
+    "reasons": ""
+  },
+  {
+    "address": "0xCbfe730F50311793bCd5D3219c4aEE3D50506153",
+    "earnings": "0x076b770289f588577d",
+    "reasons": ""
+  },
+  {
+    "address": "0x5ED61Ca5a55869a29a2a3bC44bF1536002110215",
+    "earnings": "0x04566459232fcff93e",
+    "reasons": ""
+  },
+  {
+    "address": "0xE2C29A5Ec2D228D018000053185605db1AdC6e3d",
+    "earnings": "0x01dc67e1b776275a09",
+    "reasons": ""
+  },
+  {
+    "address": "0x30eD33A678b25c445CeA1C92cB30e795Eb1d0672",
+    "earnings": "0x154a803fd9b0959263",
+    "reasons": ""
+  },
+  {
+    "address": "0x32F5371FF1c114da816c6877E1C6eC1fC8aF495a",
+    "earnings": "0x039b1780e666eaae893c",
+    "reasons": ""
+  },
+  {
+    "address": "0x62C9fE8BD0ddE3da3c54b984d54b718E3a7522B1",
+    "earnings": "0x13e2a0a06013c6287e",
+    "reasons": ""
+  },
+  {
+    "address": "0x17c610AaE5af84596e378350049012ea3Ad02AcC",
+    "earnings": "0x28db2fe2322ff7c12a",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A291667F091C9607F5FcEAa3CE658f3672ddcCA",
+    "earnings": "0x0411d9bf2e1397c773",
+    "reasons": ""
+  },
+  {
+    "address": "0x7DDF82058620Bed145dF91D6B3BBA972496E1994",
+    "earnings": "0xdfa6e590a92175e5",
+    "reasons": ""
+  },
+  {
+    "address": "0xE853EE163b6226bB3b9FD63fe19D5B74e34E19e5",
+    "earnings": "0xcf5d183f4bb0f8b7f4",
+    "reasons": ""
+  },
+  {
+    "address": "0xa8D3Bb44160BFD79E157F5b00D5B816836823184",
+    "earnings": "0xd109c42e9e5b333c",
+    "reasons": ""
+  },
+  {
+    "address": "0x7BAC55727a7C70D7e9152D169244Aa35fFEB3fDa",
+    "earnings": "0x2973d918e815bc5d",
+    "reasons": ""
+  },
+  {
+    "address": "0x729Cd9F6da32F55CC8eCf7501ec28FbBE25231B4",
+    "earnings": "0x0696383f63a0f05260",
+    "reasons": ""
+  },
+  {
+    "address": "0x0B82EB74ADFebD6984B4Bf4846c67550CC6fd4FA",
+    "earnings": "0xad7973a7ad600cff7c",
+    "reasons": ""
+  },
+  {
+    "address": "0x332df51FA1D8A2e83BCbd1069b771D9B632506E8",
+    "earnings": "0x0120f735d61eb55491f9",
+    "reasons": ""
+  },
+  {
+    "address": "0x04481084f184273D0ca7c4a24F46cd3518FB2ae2",
+    "earnings": "0xa6ebe837ec527f31",
+    "reasons": ""
+  },
+  {
+    "address": "0xDc95C7ee0d46b38FA2EdcB7CF9a97598CeD341E0",
+    "earnings": "0x20956dd7e89e7289",
+    "reasons": ""
+  },
+  {
+    "address": "0xd01831DbdA4ee69FAfEf93CbE2b02CF0d01A490E",
+    "earnings": "0x01d9d44e367d9fcdd7",
+    "reasons": ""
+  },
+  {
+    "address": "0xe207C286Da05924A1e1642B64957E4343130AC18",
+    "earnings": "0x0125a82d8ab022ece1",
+    "reasons": ""
+  },
+  {
+    "address": "0xbe1A70f41e951f21e856f6a1E6F875Ab8cB5Ffd4",
+    "earnings": "0x010c44adc04b4f322754",
+    "reasons": ""
+  },
+  {
+    "address": "0x83C8328aEcBC476c61D08CB09e8e4088543C128c",
+    "earnings": "0x055446262d91ce3d9dfe",
+    "reasons": ""
+  },
+  {
+    "address": "0x11ce4333F56fDa2afa263206D43E1c00C4Ce2479",
+    "earnings": "0x0da8432641320e0581",
+    "reasons": ""
+  },
+  {
+    "address": "0xb22A0f8985aF3FEb9A2593c058DDaD89aC53C9B0",
+    "earnings": "0x10de939adc1758aaf2",
+    "reasons": ""
+  },
+  {
+    "address": "0x38352750b8B66318e3c55af27aBA94A2f00e6743",
+    "earnings": "0x02b8972df3d360d965",
+    "reasons": ""
+  },
+  {
+    "address": "0x60A5DD823617F589F0f86DAd01B428BF650551A2",
+    "earnings": "0x8b323e98a766dd68",
+    "reasons": ""
+  },
+  {
+    "address": "0x9D079ab1923D8a35cEb6a3A4519406b40F25491d",
+    "earnings": "0x290d516811a4c08a73",
+    "reasons": ""
+  },
+  {
+    "address": "0x6Fd69073f458Ed3566DDd7f9F37409994bA59A78",
+    "earnings": "0x0f78e22d634e685458",
+    "reasons": ""
+  },
+  {
+    "address": "0x0AE7542A5eBb5CA221d8A663Ab366d0258424236",
+    "earnings": "0x3e18cdb300d06dcb3c",
+    "reasons": ""
+  },
+  {
+    "address": "0x912fd809b448C5FF74A6363507b4aC605898f668",
+    "earnings": "0x6cdfa7cd4828b23fae",
+    "reasons": ""
+  },
+  {
+    "address": "0x32b5640f17141c2e23B42C28a754c67e76fb7df6",
+    "earnings": "0x022090204bd349ac1c69",
+    "reasons": ""
+  },
+  {
+    "address": "0x3B6f3FC95A1F6c308168d7419e25C55585d29Db4",
+    "earnings": "0x03a6f15960f1188fbc",
+    "reasons": ""
+  },
+  {
+    "address": "0xc81277B0084E92A22b18E98233309913e37e9d14",
+    "earnings": "0xd0cfec4b5ba04543",
+    "reasons": ""
+  },
+  {
+    "address": "0xA9D5E82719626496292be0575badB566551573D7",
+    "earnings": "0x03441421933ea9717d44",
+    "reasons": ""
+  },
+  {
+    "address": "0x7D85D834bd53ce2e775785b7Cb4A678aAbC763de",
+    "earnings": "0x02d78fefb34b3327bb",
+    "reasons": ""
+  },
+  {
+    "address": "0x5E5AEF09113C60241013488C768077b799dC78D2",
+    "earnings": "0x022b20c15349980332",
+    "reasons": ""
+  },
+  {
+    "address": "0x38C51681D2c88C2F53Da40427A8B4Cdb36b7105E",
+    "earnings": "0x01111ec66d485bde4bf3",
+    "reasons": ""
+  },
+  {
+    "address": "0xf0e46bD9A29E66658c1313ce2bC1B4bC6ae99933",
+    "earnings": "0x031f9f736438a51851",
+    "reasons": ""
+  },
+  {
+    "address": "0xB4167B293Ea161B81D7856c1cf7687503E49C9F3",
+    "earnings": "0x6f85c12d542cfe85",
+    "reasons": ""
+  },
+  {
+    "address": "0xFD4584F77Ba18fe1fCA4E9ff222662B1e61F1e06",
+    "earnings": "0x01e7e1e3c8af834ba3",
+    "reasons": ""
+  },
+  {
+    "address": "0x24e32bB964721dFAC9DEE9E9FF71Ac476652E8eF",
+    "earnings": "0x04d8c5924f58a4fe55",
+    "reasons": ""
+  },
+  {
+    "address": "0x40Af0fE6ee627701964A240D25Da47e799Ce99f2",
+    "earnings": "0x4410dececbb582d209",
+    "reasons": ""
+  },
+  {
+    "address": "0x0647F2c0098B247324a84a5946Fc7600AF35Ac8a",
+    "earnings": "0x036b749b850ae8797c",
+    "reasons": ""
+  },
+  {
+    "address": "0x7029f91A05F9a4e4F8Fcf5d3838B1EeC8e7Df113",
+    "earnings": "0x076fea503ff0bb537a3a",
+    "reasons": ""
+  },
+  {
+    "address": "0x11D064d1A4ceC806c2068f3ccd4439D56e9d42aF",
+    "earnings": "0x0d39baa611c20bab7a",
+    "reasons": ""
+  },
+  {
+    "address": "0x06737052e87392Acad6b5a23C8dED8dd8e4DB07d",
+    "earnings": "0x0c0061d0794bf676fc",
+    "reasons": ""
+  },
+  {
+    "address": "0x8E1e15A2eFC24dAcDCB4D8E0E6fdAC98d5A72348",
+    "earnings": "0x459e443e0c643beb",
+    "reasons": ""
+  },
+  {
+    "address": "0xC467A922F6Dd69A7CbFAA0Bd1d837A697c2Adb4F",
+    "earnings": "0x1b487730b52a70aa1a",
+    "reasons": ""
+  },
+  {
+    "address": "0xe4988c2Dcb4999f954d353f4D1ebf0dd289800BB",
+    "earnings": "0x028bc0cd5e8039a1e3ec",
+    "reasons": ""
+  },
+  {
+    "address": "0xf1c1eDEB8ba34ce6a35eFD22902bC6511EF2367e",
+    "earnings": "0xbc81cf91e28e09d7",
+    "reasons": ""
+  },
+  {
+    "address": "0xA7F77d1C8b1AbA49Acd8e80C635f3745d2EF1F6E",
+    "earnings": "0x0570ef984c539ea441",
+    "reasons": ""
+  },
+  {
+    "address": "0x8DC4A660aCb9321e2B2d9485F5cc9406e6b02A67",
+    "earnings": "0x0fcd29d2021e089dd2",
+    "reasons": ""
+  },
+  {
+    "address": "0x83cf51a12258848540E862D1ab8b2FE05518F716",
+    "earnings": "0x77041a9b8cc6a781da",
+    "reasons": ""
+  },
+  {
+    "address": "0x5645142bde3c03BdfBDE3ff8B65a3e2C10048602",
+    "earnings": "0x6f67ff8be7778156",
+    "reasons": ""
+  },
+  {
+    "address": "0x0074E01a21e9934680C883F0B1231c7B3953a589",
+    "earnings": "0x105237ce7a325b87a9",
+    "reasons": ""
+  },
+  {
+    "address": "0xde291D95aC61BF07De15758c1382571DF9E9E464",
+    "earnings": "0x154ec976d935559cf3",
+    "reasons": ""
+  },
+  {
+    "address": "0x77cCbB4ed3a258CC93B4B3836C5FdA54C4d7f232",
+    "earnings": "0x0335f1935d34ccf9bf",
+    "reasons": ""
+  },
+  {
+    "address": "0x24744FBB80d36224aDFE47b87c56386ca16FF7fc",
+    "earnings": "0x091267c5c3da0344fcaf",
+    "reasons": ""
+  },
+  {
+    "address": "0x7981a317A0d149bC0AC40bdde0010c61187AdAD5",
+    "earnings": "0x0498741ca323251ea9",
+    "reasons": ""
+  },
+  {
+    "address": "0x95b4DE84579C71212000E26BA390377E4c4357A7",
+    "earnings": "0x11fab82d49f6d427f7",
+    "reasons": ""
+  },
+  {
+    "address": "0x48e3B6A1FCbCeaF45092545e9077a3e2c0E4bb14",
+    "earnings": "0x08c1aa004785a541f8",
+    "reasons": ""
+  },
+  {
+    "address": "0x8780C09018F9699C6741D33bC97ec3A576F470D5",
+    "earnings": "0x01168b0b160f9b9c86",
+    "reasons": ""
+  },
+  {
+    "address": "0x46692b10D1b729C46799fa96Ef67D91Acf8870a5",
+    "earnings": "0x031a135278ca446cbf39",
+    "reasons": ""
+  },
+  {
+    "address": "0xA33d993b8b2e95D9Ca1CAd463aFC63C9d51Bc2D9",
+    "earnings": "0x061b57bb12d2758cab",
+    "reasons": ""
+  },
+  {
+    "address": "0x0442C0EDA52607bd36C84A03645A083668E25A3D",
+    "earnings": "0x45bb64aba50293b6",
+    "reasons": ""
+  },
+  {
+    "address": "0xf0d2fb83c686d006c3f9E29D22C5D4E0962045D4",
+    "earnings": "0x057fa43b2c9e35a9b5",
+    "reasons": ""
+  },
+  {
+    "address": "0x6992A1E69EA5A7235634F6Cc382B88B0675FF2B9",
+    "earnings": "0x0ae2fb817bc2c10793",
+    "reasons": ""
+  },
+  {
+    "address": "0x5B0Bf0f43E536500D50B4c8739b99bB3D0B8bb4C",
+    "earnings": "0x61f64ee044e504d1",
+    "reasons": ""
+  },
+  {
+    "address": "0x7D828b25640079d2461Fde495f4b129C86ABce12",
+    "earnings": "0x0571a86ba49e833ae8",
+    "reasons": ""
+  },
+  {
+    "address": "0x56Baf133865Bed77dcb9455A8da55a153EF9B949",
+    "earnings": "0x0393dd3ca21f2831a3",
+    "reasons": ""
+  },
+  {
+    "address": "0x2370f82E63B9605589BC1aeDe26916F839b420aF",
+    "earnings": "0x2359ad202b14f82913",
+    "reasons": ""
+  },
+  {
+    "address": "0x48d6F4E110872A2E0E7aDa60785CE56040391cD8",
+    "earnings": "0x094d97c86a375b889e",
+    "reasons": ""
+  },
+  {
+    "address": "0x22F2e0d73BbcaE8bdeCf5651522C5fed69ca576A",
+    "earnings": "0x02b6e763c9b49d18dc",
+    "reasons": ""
+  },
+  {
+    "address": "0x3747bD3044e0C5363Ea6d0B9D285c7a9BeF14331",
+    "earnings": "0x015cbcd5ce97b467dc",
+    "reasons": ""
+  },
+  {
+    "address": "0x6dBe1aB499BAA3EBd88Ed4976E48d73286Cd511e",
+    "earnings": "0x12123fa132d1294303",
+    "reasons": ""
+  },
+  {
+    "address": "0xCAbceb9B1Cb88b45DA38455f5f90ac709126599D",
+    "earnings": "0x414ec0807d7c31ccf5",
+    "reasons": ""
+  },
+  {
+    "address": "0xd67d38c6BD7861d84207bF6D8EE129acA42B5Acc",
+    "earnings": "0x0570bd44d3661e828d",
+    "reasons": ""
+  },
+  {
+    "address": "0x788CD11efc89E67Cc34698782FFC7597E176E4E3",
+    "earnings": "0x015cd02670b7ce6706",
+    "reasons": ""
+  },
+  {
+    "address": "0xFC7fBa6f5e77A22353182FBaAa3E54Fd2aCc4ebc",
+    "earnings": "0x0c6f85e18338593a7c",
+    "reasons": ""
+  },
+  {
+    "address": "0xBa0df57c7363D24381D1aC19cD89d6523cD777Cb",
+    "earnings": "0x022e9b2e15c5be4b33",
+    "reasons": ""
+  },
+  {
+    "address": "0x9e8ee714bC126c47E3577a47A52f0055B923E17f",
+    "earnings": "0x01b651de5aa772aa8c",
+    "reasons": ""
+  },
+  {
+    "address": "0x3A04467DEfE74be0Ca9eA3bC6e4d33C71432Ef6B",
+    "earnings": "0x1f5f02187ede0d35ba",
+    "reasons": ""
+  },
+  {
+    "address": "0xE55317ae38F7a1E10a5A748ba30bC1c0a14C605A",
+    "earnings": "0x0888e3811458d2945e",
+    "reasons": ""
+  },
+  {
+    "address": "0x06cEA2680BBD3bEa2094C1b6E8F54211785ca8CC",
+    "earnings": "0x1389f7103a59d00f09",
+    "reasons": ""
+  },
+  {
+    "address": "0x578c64F23069393Fed9AA6eEB9a5B2a49c4a142A",
+    "earnings": "0x5a8596fd84065f7a",
+    "reasons": ""
+  },
+  {
+    "address": "0xf71B335A1d9449c381d867f4172Fc1BB3D2bfb7B",
+    "earnings": "0x0bb7c53bcb1c7e939568",
+    "reasons": ""
+  },
+  {
+    "address": "0x10D972b795Ed7085beaB58eBFf06D501CE69d0Cc",
+    "earnings": "0x19dd24151b79197ec5",
+    "reasons": ""
+  },
+  {
+    "address": "0x53e7ee03E9DC7d1B79D83a409CC4C567144847B9",
+    "earnings": "0x8bdbfb61e2e7ea6e",
+    "reasons": ""
+  },
+  {
+    "address": "0x05556d8c25C881CDa8f8eA7527F4C43e91166Af6",
+    "earnings": "0x2f73e9ce422e36027e",
+    "reasons": ""
+  },
+  {
+    "address": "0xe11898FE0ddF3DD397D0184E58D6F543e56482b2",
+    "earnings": "0x01a1f640b1db742ccc",
+    "reasons": ""
+  },
+  {
+    "address": "0xC8cC7451f461635e33d76443e67D1CFc6BD2724c",
+    "earnings": "0x0573c98371037e830f",
+    "reasons": ""
+  },
+  {
+    "address": "0x7e1FF06fc9adACa7383560F3d674C6b686AEf67e",
+    "earnings": "0x26108e1cc477c3d6bf",
+    "reasons": ""
+  },
+  {
+    "address": "0xB8F1A65168361c13217900C7970572eDbFa9f399",
+    "earnings": "0x993dc58b978016b2",
+    "reasons": ""
+  },
+  {
+    "address": "0x491B31Eb8DD42f5a8E86DF59920F4C9898342348",
+    "earnings": "0x26ac2ee313e7a7e637",
+    "reasons": ""
+  },
+  {
+    "address": "0xE5DAAeeb6A4a8D721c9e386A8bAE835b7b4D2636",
+    "earnings": "0x03d67eb7b80f8ffcc1",
+    "reasons": ""
+  },
+  {
+    "address": "0x35cB131eA77a856bE0DDDD61cB41fd7763b45e30",
+    "earnings": "0x2f968f2e3589ef6602",
+    "reasons": ""
+  },
+  {
+    "address": "0xA55E5742692EA2980b144253bD17054cdEBCa54A",
+    "earnings": "0xb64b8dc59a0070ed17",
+    "reasons": ""
+  },
+  {
+    "address": "0x5BDC21771e380ddc04c5a383192765fd48Fd8e36",
+    "earnings": "0x80332be8f9f60b3e36",
+    "reasons": ""
+  },
+  {
+    "address": "0xD24cDee62Cd137B8F49f48bE913B5322CCA5709E",
+    "earnings": "0x01986aac26fdb31c02b6",
+    "reasons": ""
+  },
+  {
+    "address": "0xD19EBb20FFdB8d7C2C388b17Ac2682107De82253",
+    "earnings": "0x05fe17c769df44ef9e",
+    "reasons": ""
+  },
+  {
+    "address": "0xc777B8A1FF372cE7F08313b46229705a571a0924",
+    "earnings": "0xc3577ae60a5e201b",
+    "reasons": ""
+  },
+  {
+    "address": "0x93da7c94B969365c99BED80b8AD68B4556e29fa8",
+    "earnings": "0xaa913c148b04b2ff0a",
+    "reasons": ""
+  },
+  {
+    "address": "0x534b1e1b72305648f4c5158B4c323Cefe4279eff",
+    "earnings": "0x06429eb7423a350e09",
+    "reasons": ""
+  },
+  {
+    "address": "0x9269Ff0f5A7760d2cA6cfe70054C0D263Eca05D4",
+    "earnings": "0xc030d136442f071957",
+    "reasons": ""
+  },
+  {
+    "address": "0x8A0Dbd308212535a66DF9D424810ce9DaF2c6e7B",
+    "earnings": "0x2472d5a502e1c02782",
+    "reasons": ""
+  },
+  {
+    "address": "0xe47455d2fe02150e25CD325e64C127d0C7e2EC97",
+    "earnings": "0x105a35ef403575ce64",
+    "reasons": ""
+  },
+  {
+    "address": "0xf3fe91DE40CFC785AFe4205e058487AC58A7C7b7",
+    "earnings": "0x3c7e8464da2206c01e",
+    "reasons": ""
+  },
+  {
+    "address": "0xb4E29ebeae2562CAEa14D67A2b9aA6c71Eef580C",
+    "earnings": "0x08f97ca3442ce8b7a3",
+    "reasons": ""
+  },
+  {
+    "address": "0x25Da6c7D756C4B79A6aaC79CCbC29662830Ec9c6",
+    "earnings": "0x082f8f8f917e93cea1",
+    "reasons": ""
+  },
+  {
+    "address": "0x58f74A69e24087deADe4dB595c4DCB5b2c1448B7",
+    "earnings": "0x022e50f23662d46493",
+    "reasons": ""
+  },
+  {
+    "address": "0x1B5b5FB19d0a398499A9694AD823D786c24804CC",
+    "earnings": "0x0ddcd0bc21f9ce82",
+    "reasons": ""
+  },
+  {
+    "address": "0x3597c57789289cd6d0621E82684a3D1a5a50Bc8f",
+    "earnings": "0xa3486c5f518a5aaeb3",
+    "reasons": ""
+  },
+  {
+    "address": "0xe76eAaf55240e676348ae74742ce1C8dDb736B5C",
+    "earnings": "0x02b97cd4282e457230",
+    "reasons": ""
+  },
+  {
+    "address": "0xA1e67dc314adc4cb0F79eB08E8074f3DEEECD32E",
+    "earnings": "0x04e7ba8b65feebc7d8",
+    "reasons": ""
+  },
+  {
+    "address": "0x7BB1f9D46Ac20357e79c3fc8C451C772BDaB8Ba1",
+    "earnings": "0x54676086882389d4",
+    "reasons": ""
+  },
+  {
+    "address": "0x0355569420bD0aA31c15085e2B79696AFaEEFBeD",
+    "earnings": "0x05feb579437ece40e3",
+    "reasons": ""
+  },
+  {
+    "address": "0x35A76C3c9c99919b8E55bc231c72601687798877",
+    "earnings": "0x02ffcf3530f2b08ec5",
+    "reasons": ""
+  },
+  {
+    "address": "0x48B5b25037f53726daAA6A791C5b3C96EFEf3001",
+    "earnings": "0x2b743f76d8350be1fd",
+    "reasons": ""
+  },
+  {
+    "address": "0x11BcD266E01cB7e5BaAce41fA2b29054D4F48CF4",
+    "earnings": "0x287fd7754d86f07fd6",
+    "reasons": ""
+  },
+  {
+    "address": "0x8063e69420E460cd437F43c3d11B5daF8F90AB69",
+    "earnings": "0x011ab7d5cd14f4975d",
+    "reasons": ""
+  },
+  {
+    "address": "0x778d917db02cD814582A54AAE980D36123E20c96",
+    "earnings": "0x33d25af9e5250fa9c1",
+    "reasons": ""
+  },
+  {
+    "address": "0xB28a632D63449E62A06e113c3b02A8b01C391b50",
+    "earnings": "0x03cf310dbb96b8e549",
+    "reasons": ""
+  },
+  {
+    "address": "0x4b222E47034122D1DD434624Cc16D3161F667cA1",
+    "earnings": "0x4c9f48cff1c5a5200b",
+    "reasons": ""
+  },
+  {
+    "address": "0x622C3b994B86293EB87d6119e527697949465524",
+    "earnings": "0x0518b3d9627bb7141e",
+    "reasons": ""
+  },
+  {
+    "address": "0xbDfA4f4492dD7b7Cf211209C4791AF8d52BF5c50",
+    "earnings": "0x010fb5e1c10d06231352",
+    "reasons": ""
+  },
+  {
+    "address": "0x5dCa7bad26550B04A2D6911BA64Bb7E7bDd67787",
+    "earnings": "0x1326f2775b9e6dc5ea",
+    "reasons": ""
+  },
+  {
+    "address": "0x8342A1A1612FaDeC9d398aA56F2CceC2dd805D35",
+    "earnings": "0x7249c22536f92b65f1",
+    "reasons": ""
+  },
+  {
+    "address": "0x244B91114c1B1bbaae1C550875D8351fbB8De4a2",
+    "earnings": "0x20cc6eb795399b781f",
+    "reasons": ""
+  },
+  {
+    "address": "0xa8b5706aD18F1c4Af55775E504bc9DfFa167522b",
+    "earnings": "0x20d2a849476dcddf9a",
+    "reasons": ""
+  },
+  {
+    "address": "0xe527DBb875fBf9B37D28B939e58b677db0E772a9",
+    "earnings": "0x02b8a49196df83879d",
+    "reasons": ""
+  },
+  {
+    "address": "0x2b232939041c5689eB15614E1081082D5504d283",
+    "earnings": "0x1074f6577883c972c2",
+    "reasons": ""
+  },
+  {
+    "address": "0x2d8b7dfb8e549a15Eb8453c961EF68Ed2E0103Fa",
+    "earnings": "0x0ae1b35cc6923f039b",
+    "reasons": ""
+  },
+  {
+    "address": "0x742225dD6db03281b995a0bF02FFc73901b1285a",
+    "earnings": "0x2dca18a78aa3537631",
+    "reasons": ""
+  },
+  {
+    "address": "0xbDc1Ad7233526608014F57E4DCC08349cC6425AB",
+    "earnings": "0x06d13fe3919167e22f",
+    "reasons": ""
+  },
+  {
+    "address": "0x37EDfB2576810dB078E9a838AC405E787578996e",
+    "earnings": "0x01720d4cc065f7bfaa",
+    "reasons": ""
+  },
+  {
+    "address": "0x21DC07AFeeCF13394067E31eE32059a026449C41",
+    "earnings": "0x1b58c930ebe2f8f19f",
+    "reasons": ""
+  },
+  {
+    "address": "0x4Ad4c88A99C1635Cd0012BC37BFD9524EA296519",
+    "earnings": "0x02b50fec9874003f21",
+    "reasons": ""
+  },
+  {
+    "address": "0xbbCC78b70e5349699466c67eC05d61BE597Fa9f7",
+    "earnings": "0x45cfcdbc73ae5285",
+    "reasons": ""
+  },
+  {
+    "address": "0x58DbeF142A129e4766e755cb200cc92fd3e86842",
+    "earnings": "0xa4a7d012949cfe30",
+    "reasons": ""
+  },
+  {
+    "address": "0xF2311F837c9095f414138B4ad63898103ff247A2",
+    "earnings": "0x0cba435c5489e4180d",
+    "reasons": ""
+  },
+  {
+    "address": "0xc27FF6aE9f20c0B90b59Cb57010e4a678f59995B",
+    "earnings": "0x01e915710e1a8bff01",
+    "reasons": ""
+  },
+  {
+    "address": "0x431123d92c7BAf4ba7b76bf0448F238E8125C240",
+    "earnings": "0x01147d5c5903a466cd0a",
+    "reasons": ""
+  },
+  {
+    "address": "0xafB73cFa84e9566f297A2770af6340e0Ce113B5e",
+    "earnings": "0x0d165a2be35ab6c7bc",
+    "reasons": ""
+  },
+  {
+    "address": "0x03AA52dAdeF5083DBc3fF8dA1Be34e26b61Bde0b",
+    "earnings": "0xa78968f55bba930f",
+    "reasons": ""
+  },
+  {
+    "address": "0x9C1eE1dddBef7be7C96dF3BE5c63998f18f4C9cb",
+    "earnings": "0x4f17112f8f10296d8e",
+    "reasons": ""
+  },
+  {
+    "address": "0xE3Bca1691607A3efF686C5c57824c918af9dAaB2",
+    "earnings": "0x08260882e289f6e90b",
+    "reasons": ""
+  },
+  {
+    "address": "0x89dF64C1f07d264b8D5e0a3111A70744584b8759",
+    "earnings": "0x45c7b15d525c7c79",
+    "reasons": ""
+  },
+  {
+    "address": "0x088431D510193ED3d5B4015F6e806E82D2859703",
+    "earnings": "0x027461f90e1d95a512",
+    "reasons": ""
+  },
+  {
+    "address": "0x14302533004253653A26f7e8f7D51FC002aCbE9C",
+    "earnings": "0x0572fda97f80db634e",
+    "reasons": ""
+  },
+  {
+    "address": "0x8a87A116070D3C59963359a8D25BbB1b32FB46e1",
+    "earnings": "0x6ac7e40160d61ed679",
+    "reasons": ""
+  },
+  {
+    "address": "0xd8Db51Bda84df52fccC74158b5B1777284308DdD",
+    "earnings": "0x09c5ea4922e8f20e54",
+    "reasons": ""
+  },
+  {
+    "address": "0x8faEBf99775135F42558c787d81447904B3A4171",
+    "earnings": "0x9916c146b46079ac",
+    "reasons": ""
+  },
+  {
+    "address": "0xb6D0981639716A5C7054D3b9726d6AF3B3AAA024",
+    "earnings": "0xa2ae91fb78baf71fa7",
+    "reasons": ""
+  },
+  {
+    "address": "0x3C6671a0199c1bDf890D6EA20d20850E28772238",
+    "earnings": "0x035b197a1bdea493cb",
+    "reasons": ""
+  },
+  {
+    "address": "0xaABaef842d88356aCB2018f4DffF718bdf574932",
+    "earnings": "0x0a7a94ccb31d7bb0e3",
+    "reasons": ""
+  },
+  {
+    "address": "0xF056DAd9F86AE16ffDf7BA7Dd3f0E862A972eEfe",
+    "earnings": "0x07a3ae6d8164fdb89f",
+    "reasons": ""
+  },
+  {
+    "address": "0x112cea9D6914ef582de761005468B262f1767990",
+    "earnings": "0x07588fa784ca2c5d97",
+    "reasons": ""
+  },
+  {
+    "address": "0x1c29801b688e3A4625e3C215ac6bA3085Ec05843",
+    "earnings": "0x060810f0fe65e0413d",
+    "reasons": ""
+  },
+  {
+    "address": "0x3bb4f8F213670D2329D95A93ff01E1928a7A0c2d",
+    "earnings": "0x104cd7182ee0ac48",
+    "reasons": ""
+  },
+  {
+    "address": "0x7d1178B327fbD499B0Fa8007612f828EFb79D620",
+    "earnings": "0x1361671f9e7b37e79d",
+    "reasons": ""
+  },
+  {
+    "address": "0x37124d451dA1971E2E45327fc3F48d2C71B15C2e",
+    "earnings": "0xa6ba79bb748e732d",
+    "reasons": ""
+  },
+  {
+    "address": "0x5D2A1Aa90442E470ecD322985975D3D0FE4ff05e",
+    "earnings": "0x253a03034a4c428c12",
+    "reasons": ""
+  },
+  {
+    "address": "0x193641EA463C3B9244cF9F00b77EE5220d4154e9",
+    "earnings": "0x3693c721f86a7170e9",
+    "reasons": ""
+  },
+  {
+    "address": "0xc94F9636621cD63Ce16B635FC8387c57951373Fc",
+    "earnings": "0x036eed251d46671e5f",
+    "reasons": ""
+  },
+  {
+    "address": "0xa5496482a8959e962feb96015a2bA9F483820197",
+    "earnings": "0x03a21099d851d3fb",
+    "reasons": ""
+  },
+  {
+    "address": "0x4e341d4c719eA7f147130d7cc6c9b61C8096f712",
+    "earnings": "0x02685bb5d89a53b7de",
+    "reasons": ""
+  },
+  {
+    "address": "0xCC6a0219B66332f27254fd139b1311361512Fb55",
+    "earnings": "0x041a9aef29e3c3c2bf",
+    "reasons": ""
+  },
+  {
+    "address": "0x1A7690E461B30AE5DB1C1E1847C7c614A33Dd2ec",
+    "earnings": "0x0dd60e37b9108000",
+    "reasons": ""
+  },
+  {
+    "address": "0x5B107d6741F4D76397A9E2ACF0992EA2c0A0CDb8",
+    "earnings": "0x1b42d3031e223ab3c8",
+    "reasons": ""
+  },
+  {
+    "address": "0x1444Fa68d98D21B861308Bc17890637fd1F87CFa",
+    "earnings": "0x011f7eaa0564c43a751b",
+    "reasons": ""
+  },
+  {
+    "address": "0xe7E930818f66E4eEF3C61BDCeFf0A89380aF4432",
+    "earnings": "0x045d1a5b2d55c2a298",
+    "reasons": ""
+  },
+  {
+    "address": "0x0420a8C676248F53F0Bdbe66c57bc5F88F2ff95f",
+    "earnings": "0x0579e658c189e18892",
+    "reasons": ""
+  },
+  {
+    "address": "0xd8A476600C6Df8ce5288a5Cd2588B97a80cd3e37",
+    "earnings": "0x5a7b81ab46da65b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x634279aD5Dbc2F13052D3c41c4207759d6B9b1Db",
+    "earnings": "0x057139992bf34f8e0a",
+    "reasons": ""
+  },
+  {
+    "address": "0x9CeCBf1A48A99881AA0a347B258CcCe438688fe2",
+    "earnings": "0x057413f978afea2c9a",
+    "reasons": ""
+  },
+  {
+    "address": "0x0230bC307520081725023ab397785a35A96F233C",
+    "earnings": "0x0528facabe11fa52b9",
+    "reasons": ""
+  },
+  {
+    "address": "0x087f244A9f9153c156C7F574Ee295B373638CAa8",
+    "earnings": "0x5adf7304a64836654c",
+    "reasons": ""
+  },
+  {
+    "address": "0xce65a2b43eFCcd13D7a7adF2ffb0C72aCDE0B2F1",
+    "earnings": "0xc0daaccbe6d3308332",
+    "reasons": ""
+  },
+  {
+    "address": "0x4307011e9Bad016F70aA90A23983F9428952f2A2",
+    "earnings": "0x1b2bccf1492ed9eda0",
+    "reasons": ""
+  },
+  {
+    "address": "0xDc351cf7b6EcfaBbc426a057d2fd4C2c3c968bE6",
+    "earnings": "0x54d409dec448a6a1",
+    "reasons": ""
+  },
+  {
+    "address": "0x03ef493c3712FE40b561F427DA9d79a1087097bF",
+    "earnings": "0x02d2d085a0beda2a96",
+    "reasons": ""
+  },
+  {
+    "address": "0x68C83144A2917eB6041d927E4F19B9fF7C6B17D0",
+    "earnings": "0x040d82be1f6259bcda",
+    "reasons": ""
+  },
+  {
+    "address": "0x2F4afaA478557Dca215a98925CF799A121Cf7659",
+    "earnings": "0x02202a89867fc7a10a62",
+    "reasons": ""
+  },
+  {
+    "address": "0x7F3C07c0428201C52DE1081e50B196E85d398aC6",
+    "earnings": "0xfc51f66fb8f11072",
+    "reasons": ""
+  },
+  {
+    "address": "0xD64F518ed727905DAd9ffCE091FF323DFd7c85b2",
+    "earnings": "0x052002dabc3e6a9182",
+    "reasons": ""
+  },
+  {
+    "address": "0xdc662B4F7b96C01aB0274549b1bb5eD5C6c6b777",
+    "earnings": "0x0351c27076147867ad",
+    "reasons": ""
+  },
+  {
+    "address": "0xa974890156A3649A23a6C0f2ebd77D6F7A7333d4",
+    "earnings": "0x10f2fb166c16947513",
+    "reasons": ""
+  },
+  {
+    "address": "0x44c70d621E7aaea5dA45cD736e35e27DF823124f",
+    "earnings": "0x0325ef2974ad5526a1",
+    "reasons": ""
+  },
+  {
+    "address": "0x5a13e3e90706DC55Cc1e74a1658755473F09a99A",
+    "earnings": "0x079e4e0326003d7691",
+    "reasons": ""
+  },
+  {
+    "address": "0x643735DDD6a148016AF57167bb6277c1a244C52C",
+    "earnings": "0x01e72a1e03d3b4df09",
+    "reasons": ""
+  },
+  {
+    "address": "0x4aa229B00787Ad2cF2b4574EEcf7b1770139A47e",
+    "earnings": "0x0117139355c5c1d9e5",
+    "reasons": ""
+  },
+  {
+    "address": "0x15fdf6CD5f7D9374E35724481CA7e5c2aa256daC",
+    "earnings": "0x7cf0a407639e6cd3",
+    "reasons": ""
+  },
+  {
+    "address": "0x6342e522f51D0Ce38a1BD75c7abCbd509a027763",
+    "earnings": "0x8c41ce4503760ade",
+    "reasons": ""
+  },
+  {
+    "address": "0x96B0060f2A45E7b9D4a56348f1042b06B7fd87cc",
+    "earnings": "0x0b6d2bf5947d3f89ec",
+    "reasons": ""
+  },
+  {
+    "address": "0x560858580455B2E277dde49E4e907653761DF20c",
+    "earnings": "0x31a6786bc1972d0810",
+    "reasons": ""
+  },
+  {
+    "address": "0x429DE645012A7Bfe58F266E7F219B767A7fFaf53",
+    "earnings": "0xc5c0b9af5ad2365baa",
+    "reasons": ""
+  },
+  {
+    "address": "0x61449a4215A99dd39456a3DD5bF5749dC5509343",
+    "earnings": "0x057ffa461aa7331496",
+    "reasons": ""
+  },
+  {
+    "address": "0x9868eD99e46A313dAFac0Ef7fF50D2041F2C8370",
+    "earnings": "0x06fa1a2f1f0a9d7a",
+    "reasons": ""
+  },
+  {
+    "address": "0x9Bc86996822381b9dC51D367A6bF088d397d9F68",
+    "earnings": "0x552b74ca64c5911d",
+    "reasons": ""
+  },
+  {
+    "address": "0xBE17172d12cA917D1CccCEe34bC28c8887dC0CeD",
+    "earnings": "0x08162f6137bf0dbbe2",
+    "reasons": ""
+  },
+  {
+    "address": "0xff720F73a6693Ff1F3879Ea3c4ccF40852D33B7c",
+    "earnings": "0xd086d323d509567f",
+    "reasons": ""
+  },
+  {
+    "address": "0xb3b3b46896f4FD0A176c85042515b59e5aAc8bb3",
+    "earnings": "0x26445664759916b114",
+    "reasons": ""
+  },
+  {
+    "address": "0x2877c93DF535e287E7b02Cf21a0bB043c1797F0E",
+    "earnings": "0x1b3421ba14ed574d04",
+    "reasons": ""
+  },
+  {
+    "address": "0xb8695A07eb9AcbcFA12D1a56B4529f6bbE77F4c3",
+    "earnings": "0x1a99a21757e85102a4",
+    "reasons": ""
+  },
+  {
+    "address": "0xef3A07aFA160F67A54A479eDD5ac8d6A24FA92F4",
+    "earnings": "0x0429a416fa308131",
+    "reasons": ""
+  },
+  {
+    "address": "0x6042d03b5aF20f5E8b1F182D19cb1631f849092D",
+    "earnings": "0x05679d8dc44a720000",
+    "reasons": ""
+  },
+  {
+    "address": "0x84Ba518921C27b0478aa815E3BC7c7437B93a10B",
+    "earnings": "0x03437ca8e34eec496f",
+    "reasons": ""
+  },
+  {
+    "address": "0xF7a7e81B97199d34d784131952b1B035389dd0Cb",
+    "earnings": "0x07fc42ca684bb6ea93",
+    "reasons": ""
+  },
+  {
+    "address": "0xa9899DeCD0CDA6865844CcffC043b8272B14D9F5",
+    "earnings": "0x6fb9f22d434a11ed",
+    "reasons": ""
+  },
+  {
+    "address": "0x56Bd5F6b28C09Bc0A8F970472937F3689f7A2179",
+    "earnings": "0x04a2710bf4cdccd1bb",
+    "reasons": ""
+  },
+  {
+    "address": "0x5De07760913f7Ac516051a208cf8078CeE05f9C9",
+    "earnings": "0x045ce66eeb68160c0e",
+    "reasons": ""
+  },
+  {
+    "address": "0x715A0ed65E8bc31f467eca3e6aA05159cF639ED5",
+    "earnings": "0x02b0824a174e5acb95",
+    "reasons": ""
+  },
+  {
+    "address": "0x86B36ECB6025966f82df35e837dD3eA9Cf53030B",
+    "earnings": "0x34520156861f8f6395",
+    "reasons": ""
+  },
+  {
+    "address": "0x46ec63027cb229b936618Ddb73A72d3C3EE6b9Da",
+    "earnings": "0x199ca91b36eedb6201",
+    "reasons": ""
+  },
+  {
+    "address": "0x21E565c8Fe9F2652605a8E7D81f8B7010bE142dE",
+    "earnings": "0xc32fc1a58b5b8068",
+    "reasons": ""
+  },
+  {
+    "address": "0x8050F314Bfb71DC60D3bd5142Bb949d1d2F8c186",
+    "earnings": "0x064a8f992e9ea4a6f3",
+    "reasons": ""
+  },
+  {
+    "address": "0x518c28B754b278A60c3eeA71eDA806f9f2AfB083",
+    "earnings": "0x045f500b9f0fbbd0be",
+    "reasons": ""
+  },
+  {
+    "address": "0x8e7a9B03B350865F1D53582B937317F857C6472b",
+    "earnings": "0x0b1ec62b3d501b5035f7",
+    "reasons": ""
+  },
+  {
+    "address": "0x03e0039D6c104431F8E4841599DC95647D9FD9fC",
+    "earnings": "0x01a3369f68bd34dc8c",
+    "reasons": ""
+  },
+  {
+    "address": "0x33aCb2A5a14E02188e1d16907Aef9E186183bdf8",
+    "earnings": "0x1b3405825559a812dc",
+    "reasons": ""
+  },
+  {
+    "address": "0xD17129D0DBB482B7577fB0f3454E9067971bb2e5",
+    "earnings": "0x02b9825edc7d484ead",
+    "reasons": ""
+  },
+  {
+    "address": "0x5280537847c00723a2E710349390bFF199661Cd3",
+    "earnings": "0x61f684403e9ddd3279",
+    "reasons": ""
+  },
+  {
+    "address": "0xdf34F95771ae2E1dbf56F50cbEA3957e3F1f2A23",
+    "earnings": "0x1b3bdf8d4f078f745c",
+    "reasons": ""
+  },
+  {
+    "address": "0x9EC57fAdeE437af2714F56EB2A47b8a9EC05489f",
+    "earnings": "0x082c14d1511bdb0301",
+    "reasons": ""
+  },
+  {
+    "address": "0x6EEd0A44726E0C85434786cb052EBA05b6F16b00",
+    "earnings": "0x02b826a1c9520fe2a7",
+    "reasons": ""
+  },
+  {
+    "address": "0x575195Bf06e07FE6aAAAd4a5dB56a1D5B1a69b51",
+    "earnings": "0x1450e81a241eead1c2",
+    "reasons": ""
+  },
+  {
+    "address": "0x78F4948af786245E00Ac615519B43b52EAEcD64C",
+    "earnings": "0x552ab4a1183e39",
+    "reasons": ""
+  },
+  {
+    "address": "0x099AcC3a9C131DF23405761cd0bCB9E53a1b8097",
+    "earnings": "0x015acf4399d01b26b2",
+    "reasons": ""
+  },
+  {
+    "address": "0xE5A9ED9058C242668160c72c2A565CbAeb9D97CF",
+    "earnings": "0x02b99ec8f5b097a59e",
+    "reasons": ""
+  },
+  {
+    "address": "0x03bC6AFDA63Ce7d8e73E243a8f847A9AF03C04e4",
+    "earnings": "0x1bc8f03faeb74d68",
+    "reasons": ""
+  },
+  {
+    "address": "0x380aB69b2c0295123Ea17F75cd0f2065b60aF32B",
+    "earnings": "0x0d14cbcbd4a8fa06ae",
+    "reasons": ""
+  },
+  {
+    "address": "0xCfE321B88cA212561f37fdc361733CA11c6bCB51",
+    "earnings": "0x070bc7a1249ee58825",
+    "reasons": ""
+  },
+  {
+    "address": "0x98b2f3DB28FAccd4512a2503887cf91f2AE725Ce",
+    "earnings": "0x3653144bbc5c7ae6f1",
+    "reasons": ""
+  },
+  {
+    "address": "0x579aFDdBB9442e99fA8bd1ae9B009bC5739f8A07",
+    "earnings": "0x1dd979891e4166a677",
+    "reasons": ""
+  },
+  {
+    "address": "0x9bb2c5ec4A9Afab93CE827B83d5EFEA1c7463e60",
+    "earnings": "0x299aa0201838189e99",
+    "reasons": ""
+  },
+  {
+    "address": "0x3c7Ac2fF76A1B4dCb2B69b1121fEF5fB8dCDEc43",
+    "earnings": "0x452e47169d528000",
+    "reasons": ""
+  },
+  {
+    "address": "0x1CFa3800AcCA66D55D29e9d5715aF4b42fA6D8d3",
+    "earnings": "0x8b4ae4e2361adc9e",
+    "reasons": ""
+  },
+  {
+    "address": "0x1f836A75248Ca00C788d20355a8e4b903A918BcB",
+    "earnings": "0x072184f59896",
+    "reasons": ""
+  },
+  {
+    "address": "0x1324d52DE5c608e6F64dAa856Ea4ACfCd5DFEE4B",
+    "earnings": "0x015c15f8c9e4e6adca",
+    "reasons": ""
+  },
+  {
+    "address": "0x8C8e307f873FEE7a96E8702A2Ad302b023fcb460",
+    "earnings": "0x01b152112c46cabbe7",
+    "reasons": ""
+  },
+  {
+    "address": "0x30D987C7eB981A57488f3a4146227c4F69eAc0A1",
+    "earnings": "0x719058133792fa72",
+    "reasons": ""
+  },
+  {
+    "address": "0x462e81CdbC73E7Cd6a0b1f28a138cb23F2F6097F",
+    "earnings": "0x041b3e601ad54823b2",
+    "reasons": ""
+  },
+  {
+    "address": "0x5f9ae3A52EAf155b2B0BB9C4781c86eEd5eB10EE",
+    "earnings": "0x70066b7a3b87ab5d",
+    "reasons": ""
+  },
+  {
+    "address": "0x5Ef4C11d84Fa53531c9091Ef44f9fc33e484ab43",
+    "earnings": "0x0203420c1e31873d64",
+    "reasons": ""
+  },
+  {
+    "address": "0x3004a40B2394Ed5AF2F2dF253F0411A079abB886",
+    "earnings": "0x01a1011f4c50eb275a",
+    "reasons": ""
+  },
+  {
+    "address": "0xAf4192b72Fb039D095a3f495e21641E3B256FfFB",
+    "earnings": "0x057506903475614b3b",
+    "reasons": ""
+  },
+  {
+    "address": "0xbECc7a18CA0718939dd2Bf03D49F38ed7D91AbCE",
+    "earnings": "0x2bf076880731ef1ef5",
+    "reasons": ""
+  },
+  {
+    "address": "0x1c785aeA7563a3b893fF1Ac350b212a2E5FF05bD",
+    "earnings": "0x3b5f28933e02c1ad",
+    "reasons": ""
+  },
+  {
+    "address": "0xE4Bdfe211255FED62eC74FA13b286354E15A945A",
+    "earnings": "0x258b85c11333f3c1",
+    "reasons": ""
+  },
+  {
+    "address": "0x563178f7E9658B9ba5E9B44686f22534E7C5134A",
+    "earnings": "0x04612c6a353ad24d21",
+    "reasons": ""
+  },
+  {
+    "address": "0x835f394f3D770B6FF818303f045e39f541B3d781",
+    "earnings": "0x06d3607e27af4f281e",
+    "reasons": ""
+  },
+  {
+    "address": "0xf8AAC3aB78590E0a18d05201Fc95DECB7b070B18",
+    "earnings": "0x056f4217cac764c2cf",
+    "reasons": ""
+  },
+  {
+    "address": "0x02233018db2241f1fa692eD16F221186f3b4A06e",
+    "earnings": "0xfede1a5069847de4",
+    "reasons": ""
+  },
+  {
+    "address": "0x66A5CD591Fd892Db4085479a64aa028CB1256a24",
+    "earnings": "0x0de0b6b3a7640000",
+    "reasons": ""
+  },
+  {
+    "address": "0xD0CbD55551a2C626931dE293b40F329e6ACFDa0a",
+    "earnings": "0x4563918244f40000",
+    "reasons": ""
+  },
+  {
+    "address": "0x2cc3267a8CcBbEcbe18799182566a6B1c3b1daEe",
+    "earnings": "0x36cb589bf9c9a78183",
+    "reasons": ""
+  },
+  {
+    "address": "0x8976b2FDE745D8857D7b953D9C85F011094A1838",
+    "earnings": "0x0584c823e4a09fa4dd",
+    "reasons": ""
+  },
+  {
+    "address": "0x6F49b60e411688F6ff6F6fc69a0e599494789A73",
+    "earnings": "0x0125a3da40c383a647",
+    "reasons": ""
+  },
+  {
+    "address": "0x0C94eDF79a015337d0a3DeFe243Ba0C5b6ad1aAf",
+    "earnings": "0x02bb23df6aad459ada",
+    "reasons": ""
+  },
+  {
+    "address": "0xA36B49e82e422852ef947D6d11CF3A7D2a17B6f5",
+    "earnings": "0x02b6aaf55f21927ae0",
+    "reasons": ""
+  },
+  {
+    "address": "0x50441dD57e1279fdAc267870f14cdcD3aBCF4721",
+    "earnings": "0x012354d06d6fcaf804",
+    "reasons": ""
+  },
+  {
+    "address": "0xa1F2296858DC5AfEFE0780188b2C552Eb1921885",
+    "earnings": "0x01a39abb6407e37772",
+    "reasons": ""
+  },
+  {
+    "address": "0x38b8348C1bb31e2da3696f916DB60dB2c56A95CA",
+    "earnings": "0x0b3f415b7d4b35ebb1",
+    "reasons": ""
+  },
+  {
+    "address": "0xAAaADb91B3eCcED699DdC7d93A62640148Ba0136",
+    "earnings": "0x022ec4a48b44727991",
+    "reasons": ""
+  },
+  {
+    "address": "0xF0C59786Aa943CDe1087AeaCd5b57A5FD51A3BC4",
+    "earnings": "0x0646abb14508f2efcf",
+    "reasons": ""
+  },
+  {
+    "address": "0xEc83AD6450bca50cAC8070D8e457162A9712F920",
+    "earnings": "0x10136458680dfd61fc",
+    "reasons": ""
+  },
+  {
+    "address": "0x07BEC7ec8Aa46406dbd04D9E5584CB6384b88977",
+    "earnings": "0x0dd60e37b9108000",
+    "reasons": ""
+  },
+  {
+    "address": "0xc9B2377c0299334Bc4aa53120b1CD0AdC00569d4",
+    "earnings": "0x06e4c94cb33eea60e2",
+    "reasons": ""
+  },
+  {
+    "address": "0xb6Be26B521285Dc51FAD21D80F8978Cb77971743",
+    "earnings": "0x8bd3b6db1459c999",
+    "reasons": ""
+  },
+  {
+    "address": "0xC8e45B3DAd6cB9554E5cA8B9E3ACEC9d2cA343E3",
+    "earnings": "0x018067f96caa41c7a7",
+    "reasons": ""
+  },
+  {
+    "address": "0x77F0A48Ef14D442224F13A2a77c6B3eFfB583521",
+    "earnings": "0x0fd4fcd9ad60058548",
+    "reasons": ""
+  },
+  {
+    "address": "0x3c4321B151061873AAc9eDc357c7964187bb23A3",
+    "earnings": "0x0dc3d3ae30ceff1e",
+    "reasons": ""
+  },
+  {
+    "address": "0xebd9dc7FB828265E913b6060461222e9595D7Dc9",
+    "earnings": "0x0206d2964e74dd592e12",
+    "reasons": ""
+  },
+  {
+    "address": "0x588d988D2C01b5AC3E00044F5Ca4AfD97E6cA9c3",
+    "earnings": "0x05488175b2b01fbf83",
+    "reasons": ""
+  },
+  {
+    "address": "0x99847d5f987810C36460e906b86003b409a7B9E3",
+    "earnings": "0x61eae29916cb4c61",
+    "reasons": ""
+  },
+  {
+    "address": "0x84a37beE9F5f30f960b1A1f1598483dcc2e9f794",
+    "earnings": "0x01a416ab74207df226",
+    "reasons": ""
+  },
+  {
+    "address": "0xD5e94db07aD9c2c14C02dA82956e3C00D6a8e09f",
+    "earnings": "0xd1a99be111c380c0",
+    "reasons": ""
+  },
+  {
+    "address": "0xfFE3385962b6Bf54860F06dd35d5db3504bD1286",
+    "earnings": "0x0116624779cac9ae29",
+    "reasons": ""
+  },
+  {
+    "address": "0x28492440d31C90F8Ca05CbC317eFF40fbb8Cb397",
+    "earnings": "0x010c79d27bd9ad8175",
+    "reasons": ""
+  },
+  {
+    "address": "0x97e7320814444F5f5274d78b1Ba1E2df5Ec8680f",
+    "earnings": "0x04e5f12c445ad2ef9e",
+    "reasons": ""
+  },
+  {
+    "address": "0x572D25967FF49B54aa484E5e71eBcea9a13c58AC",
+    "earnings": "0x014d53a7042b4a5df0",
+    "reasons": ""
+  },
+  {
+    "address": "0xCaF76ca5cF79510F7928EEE79EfEB92372957c10",
+    "earnings": "0x0f4cf6e8ba241d9693",
+    "reasons": ""
+  },
+  {
+    "address": "0xA7374eA33A53d9fa75938C5B87369035A0c65B84",
+    "earnings": "0x0f37b7be9178e389",
+    "reasons": ""
+  },
+  {
+    "address": "0x6bdd6266968Ce19cEBc0cE79Ff29B8af4472fDde",
+    "earnings": "0x1550f7dca70000",
+    "reasons": ""
+  },
+  {
+    "address": "0xbCDa0d45E5520844138c9273395882a6eb471E58",
+    "earnings": "0x0459e201aed2d976c2",
+    "reasons": ""
+  },
+  {
+    "address": "0x05f0519466f895644F8089c34d902C402eAB3421",
+    "earnings": "0xd119281301483687",
+    "reasons": ""
+  },
+  {
+    "address": "0xfbC27F9dd40925F18503deA5bCa8A22D9034e13A",
+    "earnings": "0x0275a502cddfb674a1",
+    "reasons": ""
+  },
+  {
+    "address": "0x492dd4AB2987693464cEbC3430ad2816dBf6E11a",
+    "earnings": "0x0aedd2450367dcf2dd",
+    "reasons": ""
+  },
+  {
+    "address": "0xeD1e413Ecf85eb0f866E435aDc15fe34Ec7BA58d",
+    "earnings": "0x47560cd86c846f2c",
+    "reasons": ""
+  },
+  {
+    "address": "0x413DDA176BfCEab3e33364C9aD553814f237B181",
+    "earnings": "0x15c27c58f671b2",
+    "reasons": ""
+  },
+  {
+    "address": "0xf25167141e09F6b201e27096cA7bb8Cac05D7666",
+    "earnings": "0x034760603cf922b1a2",
+    "reasons": ""
+  },
+  {
+    "address": "0x2Bc79880F05ba1460Ef2Cc6B04b4dDF11bf43a94",
+    "earnings": "0x101a045bf9d3c753da",
+    "reasons": ""
+  },
+  {
+    "address": "0xc06f4Ac9626B4a0E7b9C8487fcdcD3D393B198BC",
+    "earnings": "0x3e822e50f81b9446",
+    "reasons": ""
+  },
+  {
+    "address": "0x905464A1dAD90445f8149282FCFF3Db8898368Ba",
+    "earnings": "0x06e5b2dde55e8000",
+    "reasons": ""
+  },
+  {
+    "address": "0x19c569184f60913DaeA2BD9409C12B031D06778F",
+    "earnings": "0x705dda13d823c037",
+    "reasons": ""
+  },
+  {
+    "address": "0x364cc347aFa612632DF6Fafb7f4F2e15199be649",
+    "earnings": "0x011682ca913ff15232",
+    "reasons": ""
+  },
+  {
+    "address": "0x48e7F069D0f8f2C3fF9A782e0a79EAb2F5f5f99F",
+    "earnings": "0x0b072cc63f903d977e",
+    "reasons": ""
+  },
+  {
+    "address": "0x9077883DD91915bFaEa0841bfeFA18F7A5D61c58",
+    "earnings": "0x4e89c63d62e0f851ad",
+    "reasons": ""
+  },
+  {
+    "address": "0x598C5E19a132a5c433a80C908f05D87bFDaAC4ae",
+    "earnings": "0x51d489320121e751dc",
+    "reasons": ""
+  },
+  {
+    "address": "0x603a1f92aa3fdDb6B0Bff544d5F02CB8658E8E98",
+    "earnings": "0x46a96f0788bf273e",
+    "reasons": ""
+  },
+  {
+    "address": "0x6042A2c595e0a539D441c9C910edc99103e93696",
+    "earnings": "0x014c115539598c0000",
+    "reasons": ""
+  },
+  {
+    "address": "0x777336AE2CeF9DDc261A61a97CBFB4E0Aa7d1329",
+    "earnings": "0x015c26a39380f899",
+    "reasons": ""
+  },
+  {
+    "address": "0xb2D555044CdE0a8A297F082f05ae6B1eFf663784",
+    "earnings": "0x46907bb5c96dc000",
+    "reasons": ""
+  },
+  {
+    "address": "0xf25aDF7D780Aac3a5FA84DcC33E5a7614170Af3e",
+    "earnings": "0x02e63116e0e7f5ba",
+    "reasons": ""
+  },
+  {
+    "address": "0xe771380C1322C61986Ab8944A106923B2eE98CB8",
+    "earnings": "0x6f42efc39bf9f478",
+    "reasons": ""
+  },
+  {
+    "address": "0x03360978699E6ff105C9b5137381c21D055Ffa36",
+    "earnings": "0x077ddf46b415136c15",
+    "reasons": ""
+  }
+]
