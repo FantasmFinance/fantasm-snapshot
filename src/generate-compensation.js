@@ -15,15 +15,13 @@ const main = async () => {
   const results = xftmHolders.map((item) => {
     return {
       address: item.address,
-      ethAmount: BigNumber.from(item.earnings).mul(FTM_ALLOCATION).div(totalXftm)
-    }
-  }
-  );
+      ethAmount: ethers.utils.formatEther(
+        BigNumber.from(item.earnings).mul(FTM_ALLOCATION).div(totalXftm)
+      ),
+    };
+  });
 
-  await fs.writeFile(
-    "./output/xftm-tx.json",
-    JSON.stringify(results, null, 2)
-  );
+  await fs.writeFile("./output/xftm-tx.json", JSON.stringify(results, null, 2));
 };
 
 main().catch((error) => {
